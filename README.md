@@ -3,6 +3,3 @@
 This is the website of our academic research group at HKUST.
 
 We thank Allan lab for the template.
-
-Copyright Allan Lab. Code released under the MIT License.
-
