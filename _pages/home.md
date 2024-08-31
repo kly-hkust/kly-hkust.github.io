@@ -8,7 +8,6 @@ permalink: /
 
 Founded in 2002, our laboratory conducts research to create a better and sustainable living environment through innovation in education and research and active community engagement.
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -16,10 +15,8 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
+
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
@@ -30,7 +27,7 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/smll202370248-gra-0001-m.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/carousel/jacsat.2021.143.issue-1.xlargecover-3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/carousel/jacsat.2021143.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -49,8 +46,6 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UST_logo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cbelogo.jpg" style="width: 210px">
 </figure>
