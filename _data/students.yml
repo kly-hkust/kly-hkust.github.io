@@ -1,11 +1,145 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Leslie Anne Lopez YASIS
+  photo: leslie.jpeg
+  info0: PhD candidate in ESPM
+  email: layasis@connect.ust.hk
 
+- name: Shabnam TAGHIPOUR
+  photo: shabnam.jpg
+  info0: PhD candidate in CBE
+  email: staghipour@connect.ust.hk
 
+- name: Deo Charis Ines MOSTRALES
+  photo: deo.jpg
+  info0: PhD candidate in ESPM
+  email: dcimostrales@connect.ust.hk 
+
+- name: Rans Miguel Nunag LINTAG
+  photo: rans.jpg
+  info0: PhD candidate in CBE
+  email: rmlintag@connect.ust.hk
+
+- name: Yuanzhi ZHENG
+  photo: yuanzhi.jpg
+  info0: PhD candidate in CBE
+  email: yzhengbu@connect.ust.hk
+
+# - name: Qurat UL AIN
+#   photo: qurat.jpg
+#   info0: PhD candidate in ESPM
+#   email: qulain@connect.ust.hk
+
+- name: Jacqueline ROBAYO MORENO
+  photo: jackie.png
+  info0: PhD candidate in ESPM, HKPFS
+  email: jrm@connect.ust.hk
+
+- name: John David Perlas PILAPIL
+  photo: david.jpg
+  info0: PhD candidate in Bioengineering
+  email: jdpilapil@connect.ust.hk
+
+- name: Huaiyu DENG (Nancy, 鄧懷玉)
+  photo: nancy.jpg
+  info0: PhD candidate in CBE
+  email: hdengah@connect.ust.hk
+
+- name: Jessa Vispo DE GUZMAN
+  photo: jessa.jpeg
+  info0: PhD candidate in CBE
+  email: jdeguzman@connect.ust.hk
+
+- name: Haoying ZHAO (赵浩莹)
+  photo: haoying.jpg
+  info0: PhD candidate in CBE
+  email: hzhaoay@connect.ust.hk
+
+- name: Shama RAZZAQ
+  photo: shama.jpg
+  info0: PhD candidate in ESPM
+  email: srazzaq@connect.ust.hk
+
+- name: Renz Marion Gagabi GARCIA
+  photo: renz.jpg
+  info0: PhD candidate in CBE
+  email: rmgarcia@connect.ust.hk
+
+- name: Yuan TIAN (Tina, 田媛)
+  photo: tina.jpg
+  info0: PhD candidate in CBE
+  email: ytianbd@connect.ust.hk
+
+- name: Ariel Elias RIOFRIO YAVAR
+  photo: ariel.jpg
+  info0: PhD student in Environmental Engineering
+  email: aery@connect.ust.hk
+
+- name: Chrissen Juvileen GALANG
+  photo: chrissen.jpg
+  info0: PhD student in CBE
+  email: cjgalang@connect.ust.hk
+
+- name: Francis Eric Patricio ALMAQUER
+  photo: francis.jpg
+  info0: PhD student in CBE
+  email: fealmaquer@connect.ust.hk
+
+- name: Billy LUK Long Ting（陸朗霆）
+  photo: billy.jpg
+  info0: PhD student in CBE
+  info1: MPhil in CBE, 2017
+  email: ltluk@connect.ust.hk
+
+- name: Xujia ZENG (Jordan, 曾续嘉)
+  photo: xujia.jpg
+  info0: PhD student in CBE
+  email: xzengaz@connect.ust.hk
+
+- name: Thu Trang NGUYEN
+  photo: nguyen.jpg
+  info0: PhD student in CBE
+  email: kebongol@ust.hk
+
+- name: Khianne Ed Miguel ORTEZA
+  photo: orteza.jpg
+  info0: PhD student in CBE
+  email: kemorteza@connect.ust.hk
+
+- name: Zhiyang LIU (Cyrus, 刘志洋)
+  photo: zhiyang.jpg
+  info0: PhD student in CBE
+  email: zliuev@connect.ust.hk
+
+- name: Yuanyuan DOU (Betty, 窦圆圆)
+  photo: yuanyuan.jpg
+  info0: PhD student in CBE
+  email: ydouac@connect.ust.hk
+
+- name: John Loui T. Tadia (Loui)
+  photo: john.jpg
+  info0: PhD student in CBE
+  email: jltadia@connect.ust.hk
+
+- name: Zixuan XIONG (熊子萱)
+  photo: zixuan.jpg
+  info0: MPhil student in CBE
+  email: zixuan.xiong@connect.ust.hk
+
+- name: Sittie Zuleiha De Sahagun SALIK
+  photo: sittie.jpg
+  info0: MPhil student in ESPM
+  email: szsalik@connect.ust.hk
+
+- name: Jiashuo LI (李嘉硕)
+  photo: jiashuo.jpg
+  info0: Mphil student in CBE
+  email: jlija@connect.ust.hk
+
+- name: Zeeshan FAREED
+  photo: fareed.jpg
+  info0: Mphil student in ESPM
+  email: zfareed@connect.ust.hk
+
+- name: Utibe Bassey AKPAN
+  photo: akpan.jpg
+  info0: Mphil student in ESPM
+  email: ubakpan@connect.ust.hk 
