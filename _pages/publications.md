@@ -11,7 +11,9 @@ permalink: /publications/
 
 For publications prior to 2019, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=2nC9a2cAAAAJ&view_op=list_works&sortby=pubdate). 
 
+<div style="font-size:20px; font-weight:bold; text-align:center; padding-top: 10px; color: #00274c">
 <p><strong>Journals</strong></p>
+</div>
 
 <p>2024</p>
 <ol>
@@ -90,7 +92,9 @@ For publications prior to 2019, see [Google Scholar](https://scholar.google.com/
 
 {% endfor %} -->
 
+<div style="font-size:20px; font-weight:bold; text-align:center; padding-top: 10px; color: #00274c">
 <p><strong>Conferences</strong></p>
+</div>
 
 <p>2024</p>
 <ol>
