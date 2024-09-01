@@ -37,12 +37,6 @@
   info1: Department of Chemical and Biological Engineering
   email: trixiedy@ust.hk
 
-- name: BUDIHARDJO Felicia Febriana
-  photo: Feli.jpg
-  info0: Visiting Scholar
-  info1: Department of Chemical and Biological Engineering
-  email: kefeli@ust.hk
-
 - name: Sin Hang WONG
   photo: wong.jpg
   info0: Research Assistant
@@ -99,3 +93,9 @@
   info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
   email: kejysong@ust.hk
+
+- name: BUDIHARDJO Felicia Febriana
+  photo: Feli.jpg
+  info0: Visiting Scholar
+  info1: Department of Chemical and Biological Engineering
+  email: kefeli@ust.hk
