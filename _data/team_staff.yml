@@ -37,6 +37,12 @@
   info1: Department of Chemical and Biological Engineering
   email: trixiedy@ust.hk
 
+- name: Malvin Subroto PAMUDJI
+  photo: malvin.jpg
+  info0: Assistant Research Engineer, PT PhD candidate
+  info1: Department of Chemical and Biological Engineering
+  email: kemalvin@ust.hk
+
 - name: Sin Hang WONG
   photo: wong.jpg
   info0: Research Assistant
@@ -45,15 +51,15 @@
 
 - name: Xin MIAO (Mel)
   photo: mel.jpg
-  info0: Research Assistant
+  info0: Research Associate
   info1: Department of Chemical and Biological Engineering
   email: melamiao@ust.hk
 
-- name: Malvin Subroto PAMUDJI
-  photo: malvin.jpg
-  info0: Assistant Research Engineer, PT PhD student
+- name: Sheena Anne H. Garcia
+  photo: Sheena.jpg
+  info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
-  email: kemalvin@ust.hk
+  email: sgarcia@ust.hk
 
 # 吴琼
 - name: Qiong WU (Diana)
@@ -62,11 +68,11 @@
   info1: Department of Chemical and Biological Engineering
   email: kedianawu@ust.hk
 
-- name: Sheena Anne H. Garcia
-  photo: Sheena.jpg
+- name: Mark Joseph Mitra Pasciolco
+  photo: mac.jpg
   info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
-  email: sgarcia@ust.hk
+  email: mpasciolco@ust.hk
 
 - name: EZEH Ogechukwu Vincentia 
   photo: Vincentia.jpg
@@ -81,18 +87,12 @@
   info1: Division of Environment and Sustainability
   email: envrdengyu@ust.hk
 
-- name: Mark Joseph Mitra Pasciolco
-  photo: mac.jpg
-  info0: Post-doctoral Fellow
-  info1: Department of Chemical and Biological Engineering
-  email: mpasciolco@ust.hk
-
 # 宋佳玉
-- name: Jiayu SONG
-  photo: jiayu.jpg
-  info0: Post-doctoral Fellow
-  info1: Department of Chemical and Biological Engineering
-  email: kejysong@ust.hk
+# - name: Jiayu SONG
+#   photo: jiayu.jpg
+#   info0: Post-doctoral Fellow
+#   info1: Department of Chemical and Biological Engineering
+#   email: kejysong@ust.hk
 
 - name: BUDIHARDJO Felicia Febriana
   photo: Feli.jpg
