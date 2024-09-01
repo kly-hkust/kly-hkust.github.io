@@ -1,4 +1,5 @@
-- name: Wei HAN (韓偉)
+# 韓偉
+- name: Wei HAN
   photo: HW.jpg
   info0: Research Associate Professor
   info1: Division of Environment and Sustainability
@@ -7,7 +8,8 @@
   education1: PhD in Physical Chemistry, Graduate University of the Chinese Academy of Sciences, 2008
   education2: Associate Director of HKUST-AP EnviroSci Ltd Joint Laboratory on Health and Environmental Innovations
 
-- name: Zhang LIU (柳章)
+# 柳章
+- name: Zhang LIU
   photo: LZ.jpg
   info0: Research Assistant Professor
   info1: Division of Environment and Sustainability
@@ -15,7 +17,8 @@
   number_educ: 1
   education1: PhD in Environmental Science, Policy and Management, HKUST, 2018
 
-- name: Ning ZHAN (Jessica, 詹寧)
+# 詹寧
+- name: Ning ZHAN (Jessica)
   photo: Jessica.jpg
   info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
@@ -52,7 +55,8 @@
   info1: Department of Chemical and Biological Engineering
   email: kemalvin@ust.hk
 
-- name: Qiong WU (Diana, 吴琼)
+# 吴琼
+- name: Qiong WU (Diana)
   photo: wuqiong.jpg
   info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
@@ -70,7 +74,8 @@
   info1: Department of Chemical and Biological Engineering
   email: ezehov@ust.hk
 
-- name: Dengyu JI (Daniel, 紀登宇)
+# 紀登宇
+- name: Dengyu JI (Daniel)
   photo: daniel.jpg
   info0: Post-doctoral Fellow
   info1: Division of Environment and Sustainability
@@ -82,7 +87,8 @@
   info1: Department of Chemical and Biological Engineering
   email: mpasciolco@ust.hk
 
-- name: Jiayu SONG (宋佳玉)
+# 宋佳玉
+- name: Jiayu SONG
   photo: jiayu.jpg
   info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
