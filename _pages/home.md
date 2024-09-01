@@ -56,4 +56,5 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UST_logo.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cbelogo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/envrlogo.png" style="width: 180px">
 </figure>
