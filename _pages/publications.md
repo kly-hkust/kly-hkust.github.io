@@ -15,7 +15,6 @@ For publications prior to 2019, see [Google Scholar](https://scholar.google.com/
 
 <p>2024</p>
 <ol>
-<li>M. Li#, H. Zhang, J. Cheng, J. Song#, W. Han#, S. Zhou, Z.X. Zhang#, Q. Wu#, K.L. YEUNG*, C-H. Mo (2024). Unveiling the decomposing and mineralizing mechanism of novel perfluoroalkyl acids via hydroxyl radical dominated electrochemical oxidation. <i><b>Applied Catalysis B: Environment and Energy</b></i>, 351, 123983.</li>
 <li>M.Li#, P. Cen, L. Huang, J. Yan, S. Zhou, K.L. Yeung, C-H. Mo, H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazard. Mater.</b></i> 470 (2024) 134155. </li>
 <li>M. Li#, H. Zhang, J. Cheng, J. Song#, W. Han#, S. Zhou, Z.X. Zhang, Q. Wu#, K.L. Yeung* and C.-H. Mo, “Unveiling the decomposing and mineralizing mechanism of novel perfluoroalkyl acid via hydroxyl radical dominated electrochemical oxidation,” <i><b>Appl. Catal. B</b></i>, 351 (2024) 123983.</li>
 <li>M. Li#, P. Cen, L. Huang, J. Yan, S. Zhao, K.L. Yeung, C.-H. Mo and H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazardous Mater.</b></i> 470 (2024) 134155.</li>
