@@ -10,7 +10,7 @@ title: KLY Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the KLY Group.
-baseurl: "/lab"
+baseurl:
 url: https://kly-hkust.github.io
 
 include:
