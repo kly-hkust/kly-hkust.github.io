@@ -90,3 +90,59 @@ For publications prior to 2019, see [Google Scholar](https://scholar.google.com/
 
 {% endfor %} -->
 
+<p><strong>Conferences</strong></p>
+
+<p>2024</p>
+<ol>
+<li>L.A.L. Yasis, S. A. H. Garcia, and K.L. Yeung, “Antimicrobial polymer-based coating against non-enveloped MS2 bacteriophage: virucidal efficiency and potential inactivation mechanism,” <i><b>268th American Chemical Society National Meeting & Exposition</b></i>, Louisiana, USA, March 17-21, 2024.</li>
+<li>M.J.M. Pasciolco, L.A.L. Yasis, W. Han, K. L. Yeung, “Loading of Ionic Liquid to Beta-cyclodextrin for Anti-corrosive Additives in Epoxy coating,” <i><b>American Chemical Society Spring 2024 Meeting</b></i>, New Orleans, Louisiana, USA, March 17-21,2024.</li>
+<li>S. Taghipour, N. Wongsrisujarit, K. L. Yeung, B. Ataie-Ashtiani, “Synthesis of Fe/TiNT photocatalyst for removal of pollutants from water,” <i><b>RSC Chemical Nanoscience and Nanotechnology Network Annual Symposium</b></i>, London, United Kingdom, 15-16 January 2024.</li>
+</ol>
+
+<p>2023</p>
+<ol>
+<li>Y. Zheng, Y. Tian, J. J. Ternero Hidlgo, H. Deng, W. Han, K.L. Yeung, “Near-field Electrospinning of Functional Fibers for Particulate Filtration,” <i><b>iWMK2023</b></i>, Kobe University, Kobe, Japan, November 16-18, 2023.</li>
+<li>K. K. Cheng, L. T. Luk, S. H. Wong, M. S. Pamudji, W. Han, K. L. Yeung, "LiquidGel Technology for Disinfection and Odor Control in Waste Handling Facilities," <i><b>2023 American Institute of Chemical Engineers Annual Meeting</b></i>, Orlando, Florida, USA, November 5-10, 2023.</li>
+<li>M. S. Pamudji, S. H. Wong, K. K. Cheng, L. T. Luk, W. Han, K. L. Yeung, "New Odor and Corrosion Control Technologies for Concrete Stormwater Drainage and Sewer System," <i><b>2023 American Institute of Chemical Engineers Annual Meeting</b></i>, Orlando, Florida, USA, November 5-10, 2023.</li>
+<li>M. S. Pamudji, G. Zhao, K. K. Cheng, Y. Li, S. H. Wong, L. T. Luk, W. Han, K. L. Yeung, "Occurrence of Antibiotics and Antibiotics-Resistant Bacteria and its Mitigation in Drainage Discharge Channel," <i><b>2023 American Institute of Chemical Engineers Annual Meeting</b></i>, Orlando, Florida, USA, November 5-10, 2023.</li>
+<li>R.M.N. Lintag, J.J. Ternero-Hidalgo, and K.L. Yeung, "Electrospun polymethylmethacrylate fibers blended with a quaternary ammonium compound for air filtration and bacterial inactivation," <i><b>European Materials Research Society (EMRS) 2023 Fall Meeting</b></i>, Warsaw, Poland, September 18-21, 2023.</li>
+<li>R.M.N. Lintag and K.L. Yeung, "Modeling of water pollutant degradation through ozone oxidation in a catalytic dual membrane reactor with a modified ceramic membrane," <i><b>European Materials Research Society (EMRS) 2023 Fall Meeting</b></i>, Warsaw, Poland, September 18-21, 2023.</li>
+<li>L. A. L. Yasis, X. Miao, W. Han, K. L. Yeung, “Development of Antimicrobial Copper-Coated PET Air Filter using Electroless Copper Deposition with an Activation Step Process,” <i><b>7th International Conference on Prevention and Infection Control</b></i>, Geneva, Switzerland, September 12-15, 2023.</li>
+<li>O.V. Ezeh, A. Farid, W. Han, K.L. Yeung, “Evaluation of pathogen survival on coated and uncoated HEPA filters installed in air purifiers in an elderly care facility,” <i><b>7th International Conference on Prevention and Infection Control</b></i>, Geneva, Switzerland, September 12-15, 2023.</li>
+<li>O.V. Ezeh, W. Han, K.L. Yeung, “Ionic liquids are a promising direction for combating antimicrobial resistance: bactericidal activity related to the anions of 1‑decyl‑3‑methylimidazolium ionic liquids,” <i><b>7th International Conference on Prevention and Infection Control</b></i>, Geneva, Switzerland, September 12-15, 2023.</li>
+<li>O.V. Ezeh, X. Miao, L.A.L. Yasis, W. Han, K.L. Yeung, “Colloidal antimicrobial coating for surface disinfection: effects of accelerated aging on stability and antimicrobial efficacy,” <i><b>7th International Conference on Prevention and Infection Control</b></i>, Geneva, Switzerland, September 12-15, 2023.</li>
+<li>Z. X. Zhang, M. Li, M. S. Pamudji, X. Miao, K. C. Kwan, K.L. Yeung, “VOCs-mediated suppression of Bacillus subtilis against pathogens in drainage system,” <i><b>7th International Conference on Prevention and Infection Control</b></i>, Geneva, Switzerland, September 12-15, 2023.</li>
+<li>T.R. Dy, and K.L. Yeung, “Pulsed Electrochemical Nitrate Reduction using Nanomaterial-enhanced Electrodes,” <i><b>20th Asian Pacific Confederation of Chemical Engineering Congress and 84th Philippine Institute of Chemical Engineers National Convention</b></i>, Manila, Philippines, Sept. 04-09, 2023.</li>
+<li>S. Garcia, and K.L. Yeung, “Exploring the Transport, Transformation, and Fate of 10nm and 20nm UiO-66-NH2 Nanoparticles in Celery Plant: A Study on Human Health and the Environment,” <i><b>American Chemical Society Fall 2023 National Meeting & Exposition</b></i>, San Francisco, California, USA, Aug 13-17, 2023.</li>
+<li>S. Garcia, L. Zhang, and K.L. Yeung, “Investigation of Transportation of Superparamagnetic Iron Oxide Nanoparticles and SPIONs Coated with Silica in Celery Plants and Their Cytotoxicity,” <i><b>American Chemical Society Fall 2023 National Meeting & Exposition</b></i>, San Francisco, California, USA, Aug 13-17, 2023.</li>
+<li>S. Garcia, D.C. Mostrales, S. Taghipour, and K.L. Yeung, “Investigating the Cell Toxicity Difference Between 10nm and 20nm Filled and Hollow Amorphous Silica Nanoparticles,” <i><b>American Chemical Society Fall 2023 National Meeting & Exposition</b></i>, San Francisco, California, USA, Aug 13-17, 2023.</li>
+<li>J.P. Boñgol, J.J. Ternero-Hidalgo, Y. Zheng, and K.L. Yeung, “Dual Electrospun Silica Fibrous Membrane for Oil-Water Separation,” <i><b>27th Annual Green Chemistry & Engineering Conference</b></i>, Long Beach, California, USA, Jun 13-15, 2023.</li>
+<li>Q. Wu, M. J. M. Pasciolco, M. D. Aguilar, W. Han, and K. L. Yeung, “Novel Coating for the Prevention of Pipe Corrosion and Biofouling in Water Supply Systems,” <i><b>The 21st IWA Symposium on Health-related Water Microbiology WaterMicro23</b></i>, Darwin, Australia, June 4-9, 2023.</li>
+<li>M.J.M. Pasciolco, Q. Wu, W. Han, and K. L. Yeung, “Anti-biofouling property of epoxy coatings for seawater pipelines,” <i><b>Frontiers in Polymer Science</b></i>, Gothenburg, Sweden, May 28- June 1, 2023. </li>
+<li>⁠⁠K.L. Yeung, “Advanced antimicrobial technologies for infection control,” <i><b>Plenary Lecture 14th Symposium on the Prevention and Control of Hospital-Acquired Infections at Beijing</b></i>, Beijing, China, April 19-21, 2023.</li>
+<li>K.L. Yeung, “Advanced antimicrobial technologies for infection control,” <i><b>Plenary Lecture 14th Symposium on the Prevention and Control of Hospital-Acquired Infections at Beijing</b></i>, Beijing, China, April 19-21, 2023.</li>
+<li>N. Zhan, W. Han, J.K.C. Kwan and K.L. Yeung, “Synthesis, evaluation and application of algae-control hydrogel,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>N. Zhan, W. Han, J.K.C. Kwan and K.L. Yeung, “Bactericidal mechanisms of pulsed and intermittent lighting from a high-intensity, narrow-wavelength (HiNW) light disinfection device,” <i><b>265th American Chemical Society National Meeting & Exposition, Indianapolis</b></i>, USA, March 26-30, 2023.</li>
+<li>J.Y. Song and K.L. Yeung, “Minimizing condensate adhesion for heat transfer enhancement via nano-hierarchical structure,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>Z.X. Zhang, J.D. Pilapil, M.S. Pamudji, K.C. Kwan and K.L. Yeung, “Volatilome and microbiome of coastal drainage outfall,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>M.S. Pamudji, Z.X. Zhang, J.D. Pilapil, Y.F. Li, W. Han and K.L. Yeung, “Investigating the volatilome of drainage discharge channel,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>M.S. Pamudji, Z.X. Zhang, J.D. Pilapil, Y.F. Li, W. Han and K.L. Yeung, “Malodor-control hydrogel in drainage applications,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>T.R. Dy, J.Y. Song and K.L. Yeung, “Bio-inspired copper-based biphilic surface as an efficient and straightforward fog harvesting material,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>H.Y. Zhao, J.J. Ternero-Hidalgo, Z.Y. Jia, J.Y. Song, W. Han and K.L. Yeung, “Electrospun ceria for air disinfection and purification,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>Y.J. Luo, A. Serrano-Lotina, F.F. Budihardjo, S.A. Ferdousi, L.P. Li, J.J. Delgado, Á. López-Buendía, Z.Y. Jia, S. Taghipour, R. Portela, N. Zhan, W. Han, M.A. Bañares and K.L. Yeung, “Photocatalytic activity of nano-confined Pt in titania nanotubes prepared by microwave-assisted flow synthesis,” <i><b>265th American Chemical Society National Meeting & Exposition</b></i>, Indianapolis, USA, March 26-30, 2023.</li>
+<li>Z.Q. Yang, C.Y. Suen, J.J. Ternero-Hidalgo, W. Han, J.K.C. Kwan, K.L. Yeung, “Antimicrobial HEPA filter with ionic-liquid coating,” <i><b>5th International Conference on Ionic Liquids in Separation and Purification Technology</b></i>, Scottsdale, USA, February 5-8, 2023.  </li>
+<li>J.J. Ternero-Hidalgo, Z.Q. Yang, C.Y. Suen, W. Han, J.K.C. Kwan, K.L. Yeung, “Antimicrobial PVDF-ionic liquid composite nanofiber filters,” <i><b>5th International Conference on Ionic Liquids in Separation and Purification Technology</b></i>, Scottsdale, USA, February 5-8, 2023.  </li>
+</ol>
+
+<p>2022</p>
+<ol>
+<li>M.J. Pasciolco, Q. Wu, T.R. Dy, W. Han and K.L. Yeung, “Anti-corrosion property of epoxy-based coatings in seawater pipelines,” <i><b>264th American Chemical Society National Meeting & Exposition</b></i>, Chicago, USA, August 21-25, 2022.</li>
+<li>S. Taghipour, K.L. Yeung and B. Ataie-Ashtiani, “Application of ball milling technology in preparation of TiO2/Fe photocatalyst,” <i><b>264th American Chemical Society National Meeting & Exposition</b></i>, Chicago, USA, August 21-25, 2022.</li>
+<li>S. Taghipour, K.L. Yeung and B. Ataie-Ashtiani, “Nanoconfinement of Iron ions in 1D TiO2 nanotube and its photocatalytic performance,” <i><b>264th American Chemical Society National Meeting & Exposition</b></i>, Chicago, USA, August 21-25, 2022.</li>
+<li>S.A.H. Garcia and K.L. Yeung, “Evaluating nanomaterial absorption and biodistribution in Celery (Apium graveolens),” <i><b>264th American Chemical Society National Meeting & Exposition</b></i>, Chicago, USA, August 21-25, 2022.</li>
+</ol>
+
+<p>2021</p>
+<ol>
+<li>...</li>
+</ol>
