@@ -9,7 +9,7 @@ permalink: /pictures/
 
 ## HKUST
 
-#### CCTV:
+#### Videos:
 <iframe width="280" height="160" src="https://www.youtube.com/embed/3iKvUMv1h5A0zSOYfwt2cw" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
