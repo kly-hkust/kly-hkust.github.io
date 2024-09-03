@@ -29,13 +29,13 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/jacs-1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/small-1.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/20240110HKUSTAPEL.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/20240110HKUSTAPEL.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/cs-1.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/cs-1.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/small-1.jpg" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
