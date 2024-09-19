@@ -18,6 +18,11 @@
   info0: PhD candidate in CBE
   email: rmlintag@connect.ust.hk
 
+- name: Jacqueline ROBAYO MORENO
+  photo: jackie.png
+  info0: PhD candidate in ESPM, HKPFS
+  email: jrm@connect.ust.hk
+
 - name: Yuanzhi ZHENG
   photo: yuanzhi.jpg
   info0: PhD candidate in CBE
@@ -27,11 +32,6 @@
 #   photo: qurat.jpg
 #   info0: PhD candidate in ESPM
 #   email: qulain@connect.ust.hk
-
-- name: Jacqueline ROBAYO MORENO
-  photo: jackie.png
-  info0: PhD candidate in ESPM, HKPFS
-  email: jrm@connect.ust.hk
 
 - name: John David Perlas PILAPIL
   photo: david.jpg
@@ -146,6 +146,16 @@
   photo: sittie.jpg
   info0: MPhil student in ESPM
   email: szsalik@connect.ust.hk
+
+- name: Gio Banzon CABUNGCAL
+  photo: gio.jpg
+  info0: MPhil student in CBE
+  email: gcabungcal@connect.ust.hk
+
+- name: Miles Lanver Tabor LLANETA
+  photo: miles.jpg
+  info0: MPhil student in CBE
+  email: -@connect.ust.hk
 
 # 李嘉硕
 - name: Jiashuo LI
