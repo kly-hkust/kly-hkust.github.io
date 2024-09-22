@@ -87,6 +87,24 @@
   info1: Division of Environment and Sustainability
   email: envrdengyu@ust.hk
 
+# - name: Leslie Anne Lopez YASIS
+#   photo: leslie.jpeg
+#   info0: Post-doctoral Fellow
+#   info1: Division of Environment and Sustainability
+#   email: layasis@connect.ust.hk
+
+# - name: Shabnam TAGHIPOUR
+#   photo: shabnam.jpg
+#   info0: Post-doctoral Fellow, dual PhD degrees in CBE @HKUST and Civil Engineering @Sharif University of Technology
+#   info1: Department of Chemical and Biological Engineering
+#   email: staghipour@connect.ust.hk
+
+# - name: Rans Miguel Nunag LINTAG
+#   photo: rans.jpg
+#   info0: Post-doctoral Fellow
+#   info1: Department of Chemical and Biological Engineering
+#   email: rmlintag@connect.ust.hk
+
 # 宋佳玉
 # - name: Jiayu SONG
 #   photo: jiayu.jpg
@@ -99,3 +117,9 @@
   info0: Visiting Scholar
   info1: Department of Chemical and Biological Engineering
   email: kefeli@ust.hk
+
+# - name: Sittie Zuleiha De Sahagun SALIK
+#   photo: sittie.jpg
+#   info0: Research Assistant
+#   info1: Department of Chemical and Biological Engineering
+#   email: szsalik@connect.ust.hk
