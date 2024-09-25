@@ -115,11 +115,6 @@
   info0: PhD student in CBE
   email: kebongol@ust.hk
 
-- name: Khianne Ed Miguel ORTEZA
-  photo: orteza.jpg
-  info0: PhD student in CBE
-  email: kemorteza@connect.ust.hk
-
 # 刘志洋
 - name: Zhiyang LIU (Cyrus)
   photo: zhiyang.jpg
@@ -141,6 +136,11 @@
   photo: john.jpg
   info0: PhD student in CBE
   email: jltadia@connect.ust.hk
+
+- name: Khianne Ed Miguel ORTEZA
+  photo: orteza.jpg
+  info0: Mphil student in Bioengineering
+  email: kemorteza@connect.ust.hk
 
 - name: Sittie Zuleiha De Sahagun SALIK
   photo: sittie.jpg
