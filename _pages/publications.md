@@ -21,6 +21,8 @@ Jump to [journals](#journals), [conferences](#conferences).
 
 <p>2024</p>
 <ol>
+<li>Liu, Z., Marquina, C., Han, W., Kwan, J. K., Ibarra, M. R., & Yeung, K. L. (2024). Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route. <i><b>Separation and Purification Technology</b></i>, 130006.</li>
+<li>Li, S., Jiang, X., Xu, W., Li, M., Liu, Z., Han, W., ... & Yeung, K. L. (2024). Unveiling Electron Transfer and Radical Transformation Pathways in Coupled Electrocatalysis and Persulfate Oxidation Reactions for Complex Pollutant Removal. <i><b>Water Research</b></i>, 122456.</li>
 <li>M.Li, P. Cen, L. Huang, J. Yan, S. Zhou, K.L. Yeung, C-H. Mo, H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazard. Mater.</b></i> 470 (2024) 134155. </li>
 <li>M. Li, H. Zhang, J. Cheng, J. Song, W. Han, S. Zhou, Z.X. Zhang, Q. Wu, K.L. Yeung and C.-H. Mo, “Unveiling the decomposing and mineralizing mechanism of novel perfluoroalkyl acid via hydroxyl radical dominated electrochemical oxidation,” <i><b>Appl. Catal. B</b></i>, 351 (2024) 123983.</li>
 <li>M. Li, P. Cen, L. Huang, J. Yan, S. Zhao, K.L. Yeung, C.-H. Mo and H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazardous Mater.</b></i> 470 (2024) 134155.</li>
