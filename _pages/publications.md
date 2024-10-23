@@ -21,7 +21,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 
 <p>2024</p>
 <ol>
-<li>J. L. Navas, C. yan Suen, Z. Liu, D. C. Mostrales, K. L. Yeung (2024). 3D Cell Culture on Hierarchical Porous Soft Aerogel Structures Printed by DIW Process from Dual Network Gel Ink. <i><b>Adv. Mater. Technol.</b></i>, 2401235.</li>
+<li>J. L. Navas, C. Y. Suen, Z. Liu, D. C. Mostrales, K. L. Yeung (2024). 3D Cell Culture on Hierarchical Porous Soft Aerogel Structures Printed by DIW Process from Dual Network Gel Ink. <i><b>Adv. Mater. Technol.</b></i>, 2401235.</li>
 <li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung (2024). Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route. <i><b>Sep. Pur. Technol.</b></i>, 130006.</li>
 <li>S. Li, X. Jiang, W. Xu, M. Li, Z. Liu, W. Han, C. Yu, J. Li, H. Wang, K.L. Yeung (2024). Unveiling Electron Transfer and Radical Transformation Pathways in Coupled Electrocatalysis and Persulfate Oxidation Reactions for Complex Pollutant Removal. <i><b>Water Res.</b></i>, 122456.</li>
 <li>M.Li, P. Cen, L. Huang, J. Yan, S. Zhou, K.L. Yeung, C-H. Mo, H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazard. Mater.</b></i> 470 (2024) 134155. </li>
