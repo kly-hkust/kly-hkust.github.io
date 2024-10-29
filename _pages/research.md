@@ -19,6 +19,10 @@ Ultrahigh Flow Catalytic Air Sterilizer and Purifier
 超高流量催化空氣消毒淨化器  
 `Innovation and Technology Fund`
 
+Magnetic nanofibers for degradation of organic pollutants 
+用於降解有機污染物的磁性奈米纖維
+`RGC - Postgraduate Student Conference/Seminar Grant`
+
 ---
 ### 2023
 HKUST-AP EnviroSci Ltd Joint Laboratory on Health and Environmental Innovations  
