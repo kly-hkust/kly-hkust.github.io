@@ -21,7 +21,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 
 <p>2024</p>
 <ol>
-<li>J. Song, T.R.N. Dy, M. Li, X. Yan, H. Zhao, Z. Zhang, S. Taghipour, N. Zhan, K.L. Yeung, " Sustainable Water Management with Photocatalytic Janus Mesh: Efficient Fog Harvesting, Water Purification, and Microbial Disinfection," <i><b>ACS Appl. Mater. Inter.</b></i> (2024) </li>
+<li>J. Song, T.R.N. Dy, M. Li, X. Yan, H. Zhao, Z. Zhang, S. Taghipour, N. Zhan, K.L. Yeung, " Sustainable Water Management with Photocatalytic Janus Mesh: Efficient Fog Harvesting, Water Purification, and Microbial Disinfection," <i><b>ACS Appl. Mater. Inter.</b></i> (2024). </li>
 <li>J.L. Navas, C.Y. Suen, Z. Liu, D.C. Mostrales, K.L. Yeung, "3D Cell Culture on Hierarchical Porous Soft Aerogel Structures Printed by DIW Process from Dual Network Gel Ink," <i><b>Adv. Mater. Technol.</b></i>, (2024) 2401235.</li>
 <li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung, "Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route," <i><b>Sep. Pur. Technol.</b></i>, (2024) 130006.</li>
 <li>S. Li, X. Jiang, W. Xu, M. Li, Z. Liu, W. Han, C. Yu, J. Li, H. Wang, K.L. Yeung (2024). Unveiling Electron Transfer and Radical Transformation Pathways in Coupled Electrocatalysis and Persulfate Oxidation Reactions for Complex Pollutant Removal. <i><b>Water Res.</b></i>, 122456.</li>
