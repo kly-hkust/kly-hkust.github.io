@@ -93,11 +93,11 @@
   info1: Division of Environment and Sustainability
   email: layasis@connect.ust.hk
 
-# - name: Shabnam TAGHIPOUR
-#   photo: shabnam.jpg
-#   info0: Post-doctoral Fellow, dual PhD degrees in CBE @HKUST and Civil Engineering @Sharif University of Technology
-#   info1: Department of Chemical and Biological Engineering
-#   email: staghipour@connect.ust.hk
+- name: Shabnam TAGHIPOUR
+  photo: shabnam.jpg
+  info0: Post-doctoral Fellow, dual PhD degrees in CBE @HKUST and Civil Engineering @Sharif University of Technology
+  info1: Department of Chemical and Biological Engineering
+  email: staghipour@connect.ust.hk
 
 - name: Rans Miguel Nunag LINTAG
   photo: rans.jpg

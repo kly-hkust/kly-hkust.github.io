@@ -18,13 +18,16 @@ Jump to [journals](#journals), [conferences](#conferences).
 <!-- <div style="font-size:20px; font-weight:bold; text-align:center; padding-top: 10px; color: #00274c">
 # Journals
 </div> -->
+<p>2025</p>
+<ol>
+<li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung, "Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route," <i><b>Sep. Pur. Technol.</b></i>, (2025) 130006.</li>
+</ol>
 
 <p>2024</p>
 <ol>
 <li>J. Song, T.R.N. Dy, M. Li, X. Yan, H. Zhao, Z. Zhang, S. Taghipour, N. Zhan, K.L. Yeung, " Sustainable Water Management with Photocatalytic Janus Mesh: Efficient Fog Harvesting, Water Purification, and Microbial Disinfection," <i><b>ACS Appl. Mater. Inter.</b></i> (2024). </li>
 <li>J.L. Navas, C.Y. Suen, Z. Liu, D.C. Mostrales, K.L. Yeung, "3D Cell Culture on Hierarchical Porous Soft Aerogel Structures Printed by DIW Process from Dual Network Gel Ink," <i><b>Adv. Mater. Technol.</b></i>, (2024) 2401235.</li>
-<li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung, "Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route," <i><b>Sep. Pur. Technol.</b></i>, (2024) 130006.</li>
-<li>S. Li, X. Jiang, W. Xu, M. Li, Z. Liu, W. Han, C. Yu, J. Li, H. Wang, K.L. Yeung (2024). Unveiling Electron Transfer and Radical Transformation Pathways in Coupled Electrocatalysis and Persulfate Oxidation Reactions for Complex Pollutant Removal. <i><b>Water Res.</b></i>, 122456.</li>
+<li>S. Li, X. Jiang, W. Xu, M. Li, Z. Liu, W. Han, C. Yu, J. Li, H. Wang, K.L. Yeung. Unveiling Electron Transfer and Radical Transformation Pathways in Coupled Electrocatalysis and Persulfate Oxidation Reactions for Complex Pollutant Removal. <i><b>Water Res.</b></i>, (2024) 122456.</li>
 <li>M. Li, P. Cen, L. Huang, J. Yan, S. Zhou, K.L. Yeung, C-H. Mo, H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazard. Mater.</b></i> 470 (2024) 134155. </li>
 <li>M. Li, H. Zhang, J. Cheng, J. Song, W. Han, S. Zhou, Z.X. Zhang, Q. Wu, K.L. Yeung and C.-H. Mo, “Unveiling the decomposing and mineralizing mechanism of novel perfluoroalkyl acid via hydroxyl radical dominated electrochemical oxidation,” <i><b>Appl. Catal. B</b></i>, 351 (2024) 123983.</li>
 <li>M. Li, P. Cen, L. Huang, J. Yan, S. Zhao, K.L. Yeung, C.-H. Mo and H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazardous Mater.</b></i> 470 (2024) 134155.</li>

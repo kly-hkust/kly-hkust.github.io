@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-... Updating soon (Oct 29 2024)
+... Updating soon (Nov 20 2024)
 
 ### 2024
 Germicidal and algicidal hydrogels for better environment of water service reservoirs  
