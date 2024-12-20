@@ -63,13 +63,8 @@
 # 熊子萱
 - name: Zixuan XIONG
   photo: zixuan.jpg
-  info0: PhD student in CBE
+  info0: PhD candidate in CBE
   email: zixuan.xiong@connect.ust.hk
-
-- name: Ka Kit CHENG
-  photo: steven.jpg
-  info0: PhD student in ESPM
-  email: kesteven@ust.hk
 
 - name: Renz Marion Gagabi GARCIA
   photo: renz.jpg
@@ -79,8 +74,19 @@
 # 田媛
 - name: Yuan TIAN (Tina)
   photo: tina.jpg
-  info0: PhD student in CBE
+  info0: PhD candidate in CBE
   email: ytianbd@connect.ust.hk
+
+# 曾续嘉
+- name: Xujia ZENG (Jordan)
+  photo: xujia.jpg
+  info0: PhD candidate in CBE
+  email: xzengaz@connect.ust.hk
+
+- name: Francis Eric Patricio ALMAQUER
+  photo: francis.jpg
+  info0: PhD candidate in CBE
+  email: fealmaquer@connect.ust.hk
 
 - name: Ariel Elias RIOFRIO YAVAR
   photo: ariel.jpg
@@ -92,11 +98,6 @@
   info0: PhD student in CBE
   email: cjgalang@connect.ust.hk
 
-- name: Francis Eric Patricio ALMAQUER
-  photo: francis.jpg
-  info0: PhD student in CBE
-  email: fealmaquer@connect.ust.hk
-
 # 陸朗霆
 - name: LUK Long Ting (Billy)
   photo: billy.jpg
@@ -104,11 +105,10 @@
   info1: MPhil in CBE, 2017
   email: ltluk@connect.ust.hk
 
-# 曾续嘉
-- name: Xujia ZENG (Jordan)
-  photo: xujia.jpg
-  info0: PhD student in CBE
-  email: xzengaz@connect.ust.hk
+- name: Ka Kit CHENG
+  photo: steven.jpg
+  info0: PhD student in ESPM
+  email: kesteven@ust.hk
 
 - name: Thu Trang NGUYEN
   photo: nguyen.jpg
