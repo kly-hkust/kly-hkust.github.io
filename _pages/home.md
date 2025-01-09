@@ -16,6 +16,7 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
 
@@ -32,10 +33,13 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/20240110HKUSTAPEL.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/cs-1.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/smll202370296-gra-0001-m.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/small-1.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/cs-1.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/small-1.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
