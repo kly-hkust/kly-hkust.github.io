@@ -20,6 +20,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 </div> -->
 <p>2025</p>
 <ol>
+<li>Garcia, Sheena Anne H., et al. "Uptake and Transpiration of Solid and Hollow SiO2 Nanoparticles by Terrestrial Plant (Apium Graveolens var. secalinum)." <i><b>Chemosphere</b></i>: (2025)144100.</li>
 <li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung, "Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route," <i><b>Sep. Pur. Technol.</b></i>, (2025) 130006.</li>
 </ol>
 
