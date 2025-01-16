@@ -20,7 +20,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 </div> -->
 <p>2025</p>
 <ol>
-<li>S. A. H. Garcia,S. Taghipour, D. C. I. Mostrales, P. Ma, Y. Wu, S. Chen, W. Han, K. L. Yeung, "Uptake and Transpiration of Solid and Hollow SiO2 Nanoparticles by Terrestrial Plant (Apium Graveolens var. secalinum)." <i><b>Chemosphere</b></i>: (2025)144100.</li>
+<li>S. A. H. Garcia,S. Taghipour, D. C. I. Mostrales, P. Ma, Y. Wu, S. Chen, W. Han, K. L. Yeung, "Uptake and Transpiration of Solid and Hollow SiO2 Nanoparticles by Terrestrial Plant (Apium Graveolens var. secalinum)." <i><b>Chemosphere</b></i>: (2025) 144100.</li>
 <li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung, "Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route," <i><b>Sep. Pur. Technol.</b></i>, (2025) 130006.</li>
 </ol>
 
@@ -33,7 +33,6 @@ Jump to [journals](#journals), [conferences](#conferences).
 <li>M. Li, H. Zhang, J. Cheng, J. Song, W. Han, S. Zhou, Z.X. Zhang, Q. Wu, K.L. Yeung and C.-H. Mo, “Unveiling the decomposing and mineralizing mechanism of novel perfluoroalkyl acid via hydroxyl radical dominated electrochemical oxidation,” <i><b>Appl. Catal. B</b></i>, 351 (2024) 123983.</li>
 <li>M. Li, P. Cen, L. Huang, J. Yan, S. Zhao, K.L. Yeung, C.-H. Mo and H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazardous Mater.</b></i> 470 (2024) 134155.</li>
 <li>Y. Jiao, Q. Wu, W. Lai, H.Y. Liu, H.T. Zhang, K.L. Yeung, S.J. Luo, “Enhancement of molecular sieving and plasticization resistance of polybenzimidazole membranes through chemical crosslinking for helium recovery from multi-component natural gas,” <i><b>Sep. Pur. Technol.</b></i> 331 (2024) 125560.</li>
-<li>L. Gong, Z. Cai, C. Wang, J. Bai, L. Shan, X. Meng, K.L. Yeung, H. Zhang, Z. Liu, S. Luo, “Finely Tuning the Microporosity and Gas Permeation Properties in Superacid-Catalyzed Polymers of Intrinsic Microporosity,” <i><b>Ind. Eng. Chem. Res.</b></i> 63(7) (2023) 3234-3244.</li>
 <li>T.A. Dela Pena, R. Ma, Y. Luo, Z. Xing, Q. Wei, Y. Hai, Y. Li, S.A. Garcia, K.L. Yeung, T. Jia, K.S. Wong and H. Yan, “Manipulating the charge carrier through functionally bridged components advances low-cost organic solar cells with green solvent processing,” <i><b>Adv. Energy Mater.</b></i> 14 (2024) 2303169.</li>
 </ol>
 
