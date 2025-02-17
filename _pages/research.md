@@ -9,6 +9,14 @@ permalink: /research/
 # Research
 
 ... Updating soon (Nov 20 2024)
+### 2025
+Antimicrobial mechanisms of metal nanoparticles, phytochemicals and bacteriocins  
+金屬奈米顆粒、植物化學物質和抗菌劑的抗菌機制細菌素  
+`RGC - Postgraduate Student Conference/Seminar Grant`
+
+Novel catalysts and delivery systems targeting the tumor microenvironment: Opening new ways for cancer treatment  
+針對腫瘤微環境的新型催化劑和遞送系統：開闢癌癥治療新途徑  
+`RGC - Postgraduate Student Conference/Seminar Grant`
 
 ### 2024
 Germicidal and algicidal hydrogels for better environment of water service reservoirs  
