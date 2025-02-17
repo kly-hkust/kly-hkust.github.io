@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-... Updating soon (Nov 20 2024)
+... Updating soon (Feb 10 2025)
 ### 2025
 Antimicrobial mechanisms of metal nanoparticles, phytochemicals and bacteriocins  
 金屬奈米顆粒、植物化學物質和抗菌劑的抗菌機制細菌素  
