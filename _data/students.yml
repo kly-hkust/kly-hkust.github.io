@@ -93,11 +93,6 @@
   info0: PhD student in Environmental Engineering, HKPFS
   email: aery@connect.ust.hk
 
-- name: Chrissen Juvileen GALANG
-  photo: chrissen.jpg
-  info0: PhD student in CBE
-  email: cjgalang@connect.ust.hk
-
 # 陸朗霆
 - name: LUK Long Ting (Billy)
   photo: billy.jpg
@@ -136,6 +131,11 @@
   photo: john.jpg
   info0: PhD student in CBE
   email: jltadia@connect.ust.hk
+
+- name: Chrissen Juvileen GALANG
+  photo: chrissen.jpg
+  info0: Mphil student in CBE
+  email: cjgalang@connect.ust.hk
 
 - name: Khianne Ed Miguel ORTEZA
   photo: orteza.jpg
