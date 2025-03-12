@@ -43,7 +43,7 @@
   info1: Department of Chemical and Biological Engineering
   email: kemalvin@ust.hk
 
-- name: Sin Hang WONG
+- name: Sin Hang WONG (John)
   photo: wong.jpg
   info0: Research Assistant
   info1: Division of Environment and Sustainability
@@ -104,6 +104,12 @@
   info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
   email: rlintag@ust.hk
+
+- name: Shiyue WANG
+  photo: shiyue.jpg
+  info0: Research Assistant
+  info1: Division of Environment and Sustainability
+  email: envrshiyue@ust.hk
 
 # 宋佳玉
 # - name: Jiayu SONG
