@@ -8,6 +8,10 @@ permalink: /award/
 
 # Awards
 
+### 2025
+- Gold Medal with the Congratulations of Jury, 2025 International Exhibition of Inventions Geneva  
+    - Methods of preparinginorganic matrices for dosingdissolvable sodium chlorite forcontrolling algal growth in water
+
 ### 2024
 - Two Gold Medals, one Silver Medal, one Bronze Medal, 2024 International Exhibition of Inventions Geneva  
     - Gold: Multi-purpose silica encapsulating matrix for long term usage in human and pets hygiene and cosmetic applications
