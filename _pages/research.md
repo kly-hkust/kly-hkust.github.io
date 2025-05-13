@@ -11,11 +11,11 @@ permalink: /research/
 ... Updating soon (May 10 2025)
 ### 2025
 Development on ionic liquid hybrid functional membranes for high efficient separation of H2 and NH3  
-H2/NH3高效分離的離子液體雜化功能膜材料開發
+H2/NH3高效分離的離子液體雜化功能膜材料開發  
 `Huizhou Science and Technology Innovation Committee`
 
 Engineering Anti-fouling Surfaces for Sustainable Water Transport and Treatment Systems  
-為可持續水運輸和處理系統設計定製的防污表面
+為可持續水運輸和處理系統設計定製的防污表面  
 `Absolute Pure EnviroSci Limited, Innovation and Technology Fund`
 
 Antimicrobial mechanisms of metal nanoparticles, phytochemicals and bacteriocins  
