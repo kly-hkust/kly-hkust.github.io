@@ -20,14 +20,22 @@ Jump to [journals](#journals), [conferences](#conferences).
 </div> -->
 <p>2025</p>
 <ol>
-<li>S. A. H. Garcia,S. Taghipour, D. C. I. Mostrales, P. Ma, Y. Wu, S. Chen, W. Han, K. L. Yeung, "Uptake and Transpiration of Solid and Hollow SiO2 Nanoparticles by Terrestrial Plant (Apium Graveolens var. secalinum)." <i><b>Chemosphere</b></i>: (2025) 144100.</li>
+<li>R. Li, Z. Liu, J. Qin, K. Lin, W. Xu, M. Li, K. L. Yeung, X. Zhu, J. Fang, G. Zhou, Z. Fang, "Photogenerated electron transfer in Ni/NiO supported on g-C3N4 enables sustainable catalytic activation of peroxymonosulfate for emerging pollutant removal" <i><b>Environmental Research</b></i>, (2025) 121460.</li>
+<li>A. Farid, W. Han, C. K. Lai, J. K. Kwan, K. L. Yeung, "Clinical Evaluation of MAP-1 Antimicrobial Coating on Patient Privacy Curtains: Insights from a Randomized Trial in a Hong Kong Hospital" <i><b>Journal of Hospital Infection</b></i>, (2025)</li>
+<li>A. Riofrio, M. A Bañares, Z. Zhang, X. Zhang, K. L. Yeung, "A perspective on transforming fats, oil, and grease (FOG) into hydrogen: insights on steam reforming catalysts and the case study of Hong Kong using techno-economic analysis and life cycle assessment" <i><b>Green Chemical Engineering</b></i>, (2025)</li>
+<li>W. Xu, H. Guan, Z. Liu, X. Jiang, X. Wu, B. Ruan, Y. Sun, X. Li, H. Wang, K. L. Yeung, "Enhanced peroxymonosulfate activation by ball-milling-assisted nitrogen-doped animal-derived biochar for sulfamethoxazole degradation: Unveiling multiple non-radical mechanisms" <i><b>Separation and Purification Technology</b></i>, (2025) 133570.</li>
+<li>K. Lin, J. Qin, Z. Liu, W. Xu, M. Li, Y. Zheng, W. Han, G. Zhou, J. Fang, Z. Fang, F. Peng, K. L. Yeung, "Cobalt-Modification on UiO-bpydc MOF Facilitates Ligand-to-Metal Charge Transfer for Superior Visible-Light Photocatalytic Degradation of Refractory Fluoroquinolone Antibiotics" <i><b>Environmental Research</b></i>, (2025) 121789.</li>
+<li>A. Farid, W. Han, J. K. Kwan, K. L. Yeung, "Enhancing bedding hygiene in long-term care facilities: investigating the impact of multilevel antimicrobial polymers (MAP-1) on bacterial and MDRO reduction." <i><b>Antimicrobial Resistance & Infection Control</b></i>, (2025) 14 (1), 36.</li>
+<li>E. P. Delmo, H. Zhang, J. V. De Guzman, R. M. N. Lintag, J. Jang, Y. Yao, Y. Wang, S. Zhu, T. Li, M. Pan, H. Xu, K. L. Yeung, M. Shao, "Cathodic Hydroxide Ions Induce Tetrose Formation during Glycolaldehyde Electroreduction to Alcohols: A Potential CO2‐to‐Carbohydrate Pathway." <i><b>Angewandte Chemie</b></i>, (2025) e202505274.</li>
 <li>Z. Liu, C. Marquina, W. Han, J.K. Kwan, M. R. Ibarra, K.L. Yeung, "Insight into the molecular mechanism of organic pollutants’ adsorption on magnetic ZIF-8 synthesized via a transformational route," <i><b>Sep. Pur. Technol.</b></i>, (2025) 130006.</li>
+<li>S. A. H. Garcia,S. Taghipour, D. C. I. Mostrales, P. Ma, Y. Wu, S. Chen, W. Han, K. L. Yeung, "Uptake and Transpiration of Solid and Hollow SiO2 Nanoparticles by Terrestrial Plant (Apium Graveolens var. secalinum)." <i><b>Chemosphere</b></i>: (2025) 144100.</li>
+<li>J.L. Navas, C.Y. Suen, Z. Liu, D.C. Mostrales, K.L. Yeung, "3D Cell Culture on Hierarchical Porous Soft Aerogel Structures Printed by DIW Process from Dual Network Gel Ink," <i><b>Adv. Mater. Technol.</b></i>, (2025) 2401235.</li>
+
 </ol>
 
 <p>2024</p>
 <ol>
 <li>J. Song, T.R.N. Dy, M. Li, X. Yan, H. Zhao, Z. Zhang, S. Taghipour, N. Zhan, K.L. Yeung, " Sustainable Water Management with Photocatalytic Janus Mesh: Efficient Fog Harvesting, Water Purification, and Microbial Disinfection," <i><b>ACS Appl. Mater. Inter.</b></i> (2024). </li>
-<li>J.L. Navas, C.Y. Suen, Z. Liu, D.C. Mostrales, K.L. Yeung, "3D Cell Culture on Hierarchical Porous Soft Aerogel Structures Printed by DIW Process from Dual Network Gel Ink," <i><b>Adv. Mater. Technol.</b></i>, (2024) 2401235.</li>
 <li>S. Li, X. Jiang, W. Xu, M. Li, Z. Liu, W. Han, C. Yu, J. Li, H. Wang, K.L. Yeung. Unveiling Electron Transfer and Radical Transformation Pathways in Coupled Electrocatalysis and Persulfate Oxidation Reactions for Complex Pollutant Removal. <i><b>Water Res.</b></i>, (2024) 122456.</li>
 <li>M. Li, P. Cen, L. Huang, J. Yan, S. Zhou, K.L. Yeung, C-H. Mo, H. Zhang, “Iron complex regulated synergistic effect between the current and peroxymonosulfate enhanced ultrafast oxidation of perfluorooctanoic acid via free radical dominant electrochemical reaction,” <i><b>J. Hazard. Mater.</b></i> 470 (2024) 134155. </li>
 <li>M. Li, H. Zhang, J. Cheng, J. Song, W. Han, S. Zhou, Z.X. Zhang, Q. Wu, K.L. Yeung and C.-H. Mo, “Unveiling the decomposing and mineralizing mechanism of novel perfluoroalkyl acid via hydroxyl radical dominated electrochemical oxidation,” <i><b>Appl. Catal. B</b></i>, 351 (2024) 123983.</li>
