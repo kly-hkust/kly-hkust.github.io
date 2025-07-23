@@ -20,7 +20,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 </div> -->
 <p>2025</p>
 <ol>
-<li>S. A. H. Garcia, C. R. Yeung, K. L. Yeung, "In situ micro-Raman spectroscopy of curing dynamics of antibacterial, antibiofouling, and anticorrosion ceramic epoxy with an ionic liquid additive" <i><b>Chemosphere </b></i>, (2025) 384, 144511</li>
+<li>S. A. H. Garcia, C. R. Yeung, K. L. Yeung, "Impact of silica nanoparticle size and concentration on the development, growth, health, and transpiration of Salvia hispanica" <i><b>Chemosphere </b></i>, (2025) 384, 144511</li>
 <li>M. J. Pasciolco, N. Coca-Lopez, J. D. Pilapil, Q. Wu, R. Portela, W. Han, X. Zhang, M. A. Bañares, J. K. C. Kwan, K. L. Yeung, "In situ micro-Raman spectroscopy of curing dynamics of antibacterial, antibiofouling, and anticorrosion ceramic epoxy with an ionic liquid additive" <i><b>Chemical Engineering Journal</b></i>, (2025) 165868</li>
 <li>M. S. Pamudji, K. K. Cheng, K. L. Yeung, "Mitigating Hydrogen Sulfide Emissions in Urban Drainage Systems: Efficacy of a Malodor-Control Hydrogel" <i><b>Journal of Hazardous Materials</b></i>, (2025) 139107</li>
 <li>Z. Liu, W. Han, C. Marquina, J. K. C. Kwan, M. R. Ibarra, K. L. Yeung, "Efficient Adsorption of Phosphate on Magnetic Fe3O4@ MOF@ LDH Superstructures: Kinetics, Thermodynamics, and Mechanisms" <i><b>Environmental Research</b></i>, (2025) 122183</li>
