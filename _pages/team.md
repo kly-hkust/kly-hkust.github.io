@@ -231,5 +231,12 @@ Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni
 {% endfor %}
 </div>
 
+<div class="col-sm-4 clearfix">
+<h4>Staff</h4>
+{% for member in site.data.alumni_staff %}
+{{ member.name }}<br><i>{{ member.info0 }} </i>
+{% endfor %}
+</div>
+
 </div>
 
