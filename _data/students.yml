@@ -159,8 +159,8 @@
 
 # 李嘉硕
 - name: Jiashuo LI
-  photo: jiashuo.jpg
-  info0: Mphil student in CBE
+  photo: jiashuo-1.jpg
+  info0: PhD student in CBE
   email: jlija@connect.ust.hk
 
 # 刘志洋
@@ -177,4 +177,19 @@
 - name: Utibe Bassey AKPAN
   photo: akpan.jpg
   info0: Mphil student in ESPM
-  email: ubakpan@connect.ust.hk 
+  email: ubakpan@connect.ust.hk
+
+- name: CHEN Xiao (Terry)
+  photo: terry.jpg
+  info0: Mphil student in CBE
+  email: xchenia@connect.ust.hk
+
+- name: Muhammad Farhan Hassan Sheharyar KHAN
+  photo: sheharyar.jpg
+  info0: Mphil student in ESPM
+  email: mfkhan@connect.ust.hk
+
+- name: HUNG Cheung Tim
+  photo: tim.jpg
+  info0: Mphil student in ESPM
+  email: cthungaa@connect.ust.hk
