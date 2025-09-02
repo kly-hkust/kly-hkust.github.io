@@ -56,7 +56,7 @@
   email: hzhaoay@connect.ust.hk
 
 - name: Shama RAZZAQ
-  photo: shama.jpg
+  photo: shama-2.jpg
   info0: PhD candidate in ESPM
   email: srazzaq@connect.ust.hk
 
@@ -94,11 +94,11 @@
   email: aery@connect.ust.hk
 
 # 陸朗霆
-- name: LUK Long Ting (Billy)
-  photo: billy.jpg
-  info0: PhD student in CBE
-  info1: MPhil in CBE, 2017
-  email: ltluk@connect.ust.hk
+# - name: LUK Long Ting (Billy)
+#   photo: billy.jpg
+#   info0: PhD student in CBE
+#   info1: MPhil in CBE, 2017
+#   email: ltluk@connect.ust.hk
 
 - name: Ka Kit CHENG
   photo: steven.jpg
@@ -179,7 +179,7 @@
   info0: Mphil student in ESPM
   email: ubakpan@connect.ust.hk
 
-- name: CHEN Xiao (Terry)
+- name: Xiao CHEN (Terry)
   photo: terry.jpg
   info0: Mphil student in CBE
   email: xchenia@connect.ust.hk
@@ -189,7 +189,12 @@
   info0: Mphil student in ESPM
   email: mfkhan@connect.ust.hk
 
-- name: HUNG Cheung Tim
+- name: Cheung Tim HUNG
   photo: tim.jpg
   info0: Mphil student in ESPM
   email: cthungaa@connect.ust.hk
+
+- name: Glenn Rose SUELAN
+  photo: rose.jpg
+  info0: Mphil student in CBE
+  email: grsuelan@connect.ust.hk
