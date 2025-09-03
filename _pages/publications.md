@@ -20,6 +20,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 </div> -->
 <p>2025</p>
 <ol>
+<li>Z. X. Zhang, M. Li, L. R. Hui, S. Z. Salik, M. S. Pamudji, Z. Wang, K. C. Kwan, K. L. Yeung, "VOCs-mediated allelopathy by Bacillus subtilis on suppressing drainage malodor" <i><b>Journal of Hazardous Materials</b></i>, (2025) 496, 139439</li>
 <li>S. A. H. Garcia, C. R. Yeung, K. L. Yeung, "Impact of silica nanoparticle size and concentration on the development, growth, health, and transpiration of Salvia hispanica" <i><b>Chemosphere </b></i>, (2025) 384, 144511</li>
 <li>M. J. Pasciolco, N. Coca-Lopez, J. D. Pilapil, Q. Wu, R. Portela, W. Han, X. Zhang, M. A. Bañares, J. K. C. Kwan, K. L. Yeung, "In situ micro-Raman spectroscopy of curing dynamics of antibacterial, antibiofouling, and anticorrosion ceramic epoxy with an ionic liquid additive" <i><b>Chemical Engineering Journal</b></i>, (2025) 165868</li>
 <li>M. S. Pamudji, K. K. Cheng, K. L. Yeung, "Mitigating Hydrogen Sulfide Emissions in Urban Drainage Systems: Efficacy of a Malodor-Control Hydrogel" <i><b>Journal of Hazardous Materials</b></i>, (2025) 139107</li>
