@@ -18,10 +18,10 @@
   info0: PhD candidate in ESPM, HKPFS
   email: dcimostrales@connect.ust.hk 
 
-- name: Jacqueline ROBAYO MORENO
-  photo: jackie.png
-  info0: PhD candidate in ESPM, HKPFS
-  email: jrm@connect.ust.hk
+# - name: Jacqueline ROBAYO MORENO
+#   photo: jackie.png
+#   info0: PhD candidate in ESPM, HKPFS
+#   email: jrm@connect.ust.hk
 
 - name: Yuanzhi ZHENG
   photo: yuanzhi.jpg
@@ -33,10 +33,10 @@
 #   info0: PhD candidate in ESPM
 #   email: qulain@connect.ust.hk
 
-- name: John David Perlas PILAPIL
-  photo: david.jpg
-  info0: PhD candidate in Bioengineering
-  email: jdpilapil@connect.ust.hk
+# - name: John David Perlas PILAPIL
+#   photo: david.jpg
+#   info0: PhD candidate in Bioengineering
+#   email: jdpilapil@connect.ust.hk
 
 # 鄧懷玉
 - name: Huaiyu DENG (Nancy)
@@ -44,10 +44,10 @@
   info0: PhD candidate in CBE
   email: hdengah@connect.ust.hk
 
-- name: Jessa Vispo DE GUZMAN
-  photo: jessa.jpeg
-  info0: PhD candidate in CBE
-  email: jdeguzman@connect.ust.hk
+# - name: Jessa Vispo DE GUZMAN
+#   photo: jessa.jpeg
+#   info0: PhD candidate in CBE
+#   email: jdeguzman@connect.ust.hk
 
 # 赵浩莹
 - name: Haoying ZHAO
