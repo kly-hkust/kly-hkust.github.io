@@ -189,10 +189,10 @@
   info0: Mphil student in CBE
   email: xchenia@connect.ust.hk
 
-- name: Muhammad Farhan Hassan Sheharyar KHAN
-  photo: sheharyar.jpg
-  info0: Mphil student in ESPM
-  email: mfkhan@connect.ust.hk
+# - name: Muhammad Farhan Hassan Sheharyar KHAN
+#   photo: sheharyar.jpg
+#   info0: Mphil student in ESPM
+#   email: mfkhan@connect.ust.hk
 
 - name: Cheung Tim HUNG
   photo: tim.jpg
