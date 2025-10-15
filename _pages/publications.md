@@ -20,6 +20,9 @@ Jump to [journals](#journals), [conferences](#conferences).
 </div> -->
 <p>2025</p>
 <ol>
+<li>Y. Liu, J. Yang, Y. Wang, W. Zhu, K. Hu, Z. Liu, K. L. Yeung, Z. Zhu, C. Chen, X. Duan, S. Wang, "Intrinsic nanoparticle-single-atom interplays steering radical versus nonradical pathways in catalytic ozonation" <i><b>Nature Communications</b></i>, (2025): 8790.</li>
+<li>O. V. Ezeh, J. J. T. Hildago, R. M. N. Lintag, W. Han, K. L. Yeung, "Exploring innovations in antimicrobial protective mask filters: A review" <i><b>Advances in Colloid and Interface Science</b></i>, (2025): 103635.</li>
+<li>W. B. Tarique, S. A. Garcia, T. A. D. Peña, R. Ma, Q. Wei, R. Li, A. H. Howlader, M. J. Pasciolco, S. S. Dipta, Y. Luo, Y. Hai, Y. Li, Y. Chan, K. L. Yeung, H. Yu, L. Yu, M. Li, H. Yan, L. Y. Ming, T. Jia, A. Uddin, J. Wu, "Optimizing the impacts of solid additives on the operational stability and processing reliability of organic solar cells." <i><b>Materials Today Communications</b></i>, (2025): 113584.</li>
 <li>Z. X. Zhang, M. Li, L. R. Hui, S. Z. Salik, M. S. Pamudji, Z. Wang, K. C. Kwan, K. L. Yeung, "VOCs-mediated allelopathy by Bacillus subtilis on suppressing drainage malodor" <i><b>Journal of Hazardous Materials</b></i>, (2025) 496, 139439</li>
 <li>S. A. H. Garcia, C. R. Yeung, K. L. Yeung, "Impact of silica nanoparticle size and concentration on the development, growth, health, and transpiration of Salvia hispanica" <i><b>Chemosphere </b></i>, (2025) 384, 144511</li>
 <li>M. J. Pasciolco, N. Coca-Lopez, J. D. Pilapil, Q. Wu, R. Portela, W. Han, X. Zhang, M. A. Bañares, J. K. C. Kwan, K. L. Yeung, "In situ micro-Raman spectroscopy of curing dynamics of antibacterial, antibiofouling, and anticorrosion ceramic epoxy with an ionic liquid additive" <i><b>Chemical Engineering Journal</b></i>, (2025) 165868</li>
