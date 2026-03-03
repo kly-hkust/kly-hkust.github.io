@@ -9,6 +9,8 @@ permalink: /award/
 # Awards
 
 ### 2025
+- Gold Award, 2024 Hong Kong Green Innovations Awards (HKGIA)  
+    - Breathe Easy: Innovative MOC Hydrogel Technology for Odor Suppression in Urban Drainage
 - Gold Medal with the Congratulations of Jury, 2025 International Exhibition of Inventions Geneva  
     - Methods of preparinginorganic matrices for dosingdissolvable sodium chlorite forcontrolling algal growth in water
 

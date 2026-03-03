@@ -24,7 +24,7 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/20240828smarthk.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/2026HKGIA.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/jacs-1.jpg" alt="Slide 2" />
