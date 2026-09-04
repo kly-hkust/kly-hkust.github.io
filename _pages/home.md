@@ -23,22 +23,22 @@ Founded in 2002, our laboratory conducts research to create a better and sustain
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/2026HKGIA.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/carousel/2026HKGIA.png.webp" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/jacs-1.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/carousel/jacs-1.jpg.webp" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/20240110HKUSTAPEL.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/carousel/20240110HKUSTAPEL.png.webp" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/smll202370296-gra-0001-m.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/carousel/smll202370296-gra-0001-m.jpg.webp" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/cs-1.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/carousel/cs-1.jpg.webp" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/small-1.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/carousel/small-1.jpg.webp" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
