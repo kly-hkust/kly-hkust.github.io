@@ -2,7 +2,6 @@
 title: "KLY Group - Team"
 layout: gridlay
 excerpt: "KLY Group: Team members"
-sitemap: false
 permalink: /team/
 ---
 

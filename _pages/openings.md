@@ -1,8 +1,7 @@
 ---
-title: "KLY Lab - Vacancies"
+title: "KLY Group - Vacancies"
 layout: textlay
-excerpt: "Openings"
-sitemap: false
+excerpt: "Open positions at KLY Group"
 permalink: /vacancies
 ---
 

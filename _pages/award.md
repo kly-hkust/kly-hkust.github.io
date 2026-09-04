@@ -1,8 +1,7 @@
 ---
-title: "KLY Group - Award"
+title: "KLY Group - Awards"
 layout: textlay
-excerpt: "KLY Group: Award"
-sitemap: false
+excerpt: "KLY Group: Awards"
 permalink: /award/
 ---
 
@@ -12,11 +11,11 @@ permalink: /award/
 - Gold Award, 2024 Hong Kong Green Innovations Awards (HKGIA)  
     - Breathe Easy: Innovative MOC Hydrogel Technology for Odor Suppression in Urban Drainage
 - Gold Medal with the Congratulations of Jury, 2025 International Exhibition of Inventions Geneva  
-    - Methods of preparinginorganic matrices for dosingdissolvable sodium chlorite forcontrolling algal growth in water
+    - Methods of preparing inorganic matrices for dosing dissolvable sodium chlorite for controlling algal growth in water
 
 ### 2024
 - Two Gold Medals, one Silver Medal, one Bronze Medal, 2024 International Exhibition of Inventions Geneva  
-    - Gold: Multi-purpose silica encapsulating matrix for long term usage in human and pets hygiene and cosmetic applications
+    - Gold: Multi-purpose silica encapsulating matrix for long-term usage in human and pets hygiene and cosmetic applications
     - Gold: Light-based devices to disinfect, deodorize, and care for pet's fur and skin
     - Silver: Durable Multilevel Antimicrobial Protection: Safe Antiviral and Antibacterial MAP-∞ for Surfaces
     - Bronze: Safe and Environmentally Friendly Multilevel Antimicrobial & Pest-Repellent (MAPR) Formulated Products
@@ -24,7 +23,7 @@ permalink: /award/
 ### 2023
 - Two Silver Medals, one Bronze Medal, 2023 International Exhibition of Inventions Geneva
     - Silver: Algicidal hydrogel to inhibit algal growth without adverse effects on aquatic organisms
-    - Silver: Odor control in sludge treatment facilities using disinfectantdosing liquid-gel
+    - Silver: Odor control in sludge treatment facilities using disinfectant-dosing liquid-gel
     - Bronze: HiNW as a light disinfection technology for rapid microbial disinfection at low energy consumption
 
 ### 2022

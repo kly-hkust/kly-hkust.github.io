@@ -1,8 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "News: KLY Lab at HKUST."
-sitemap: false
+excerpt: "News: KLY Group @ HKUST."
 permalink: /allnews.html
 ---
 

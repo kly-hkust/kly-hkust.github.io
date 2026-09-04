@@ -1,7 +1,7 @@
 ---
-title: "KLY Lab - Pictures"
+title: "KLY Group - Pictures"
 layout: piclay
-excerpt: "KLY Lab -- Pictures"
+excerpt: "KLY Group -- Pictures"
 permalink: /pictures/
 ---
 

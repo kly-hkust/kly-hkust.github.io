@@ -1,14 +1,12 @@
 ---
-title: "KLY Lab - Research"
+title: "KLY Group - Research"
 layout: textlay
-excerpt: "KLY Lab -- Research"
-sitemap: false
+excerpt: "KLY Group -- Research"
 permalink: /research/
 ---
 
 # Research
 
-... Updating soon (Aug 2026)
 ### 2026
 Emerging Nanotechnologies for Health and Environmental Applications: Path to Sustainable Adaption and Implementation  
 新興奈米技術在健康和環境應用中的發展：通往永續適應和實施之路  
@@ -68,7 +66,6 @@ Magnetic nanofibers for degradation of organic pollutants
 用於降解有機污染物的磁性奈米纖維  
 `RGC - Postgraduate Student Conference/Seminar Grant`
 
----
 ### 2023
 HKUST-AP EnviroSci Ltd Joint Laboratory on Health and Environmental Innovations  
 香港科技大學 – AP環境科學健康與環境創新聯合實驗室  
@@ -102,13 +99,11 @@ Surface Reactivity and Toxicity: Insights into Safer Nanomaterial Designs
 表面反應性和毒性：深入了解更安全的納米材料設計  
 `RGC - Postgraduate Student Conference/Seminar Grant`
 
----
 ### 2022
 Electrospun Catalytic Nanofibers for Air Disinfection and Purification  
 用於空氣消毒和淨化的電紡催化納米纖維  
 `RGC - General Research Fund`
 
----
 ### 2021
 Anti-corrosion, Anti-biofilm and Anti-biofouling Coating Materials for Fresh and Salt Water Pipes  
 用於淡水和鹹水水管的抗腐蝕、抗生物膜和抗生物污染塗層材料  
@@ -118,7 +113,6 @@ Transformation Mechanisms and Bio-activity of Advanced Catalytic Oxidation of Em
 新興污染物的先進催化氧化、轉化機制和產物生物活性  
 `China National Postdoctoral Council under the Ministry of Human Resources and Social Security`
 
----
 ### 2020
 Controlled-Release Antimicrobial Hydrogel for Decreasing Microbial Viability in Toilet Flush Water  
 減少沖廁水中微生物存活的可控釋放抗微生物水凝膠  
@@ -144,7 +138,6 @@ Trial: An Ionic Liquid Filtration System for Effective Improvement of Indoor Air
 試用： 有效改善特殊學校室內空氣質量的離子液體過濾系統  
 `Innovation and Technology Fund`
 
----
 ### 2019
 HKUST-CIL Joint Laboratory on Advanced Environmental Health Technologies  
 `Chiaphua Industries Ltd.`
@@ -153,18 +146,15 @@ Smart Disinfection Technologies for Sustained and Effective Control of MDROs in 
 持續高效地控制長者護理中心內多重耐藥性微生物的智能消毒技術  
 `Chiaphua Industries Ltd., Innovation and Technology Fund`
 
----
 ### 2018
 Biomaterial Risk Management (BIORIMA) – “Safer-by-Design” Nano-Biomaterials (NBMs) for Mitigating Exposure and Hazards  
 生物材料風險管理 (BIORIMA) – 設計更安全的納米生物材料以減輕暴露和危害  
 `European Union (EU) - Hong Kong Research and Innovation Cooperation Co-funding Mechanism by the RGC`
 
----
 ### 2017
 Research on scale-up production of antimicrobial gel for malodor treatment  
 `Chiaphua Industries Ltd.`
 
-... Updating soon (Aug 31 2024)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 

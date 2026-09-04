@@ -1,8 +1,7 @@
 ---
-title: "KLY Lab - Home"
+title: "KLY Group @ HKUST"
 layout: homelay
-excerpt: "KLY Lab at HKUST"
-sitemap: false
+excerpt: "KLY Group @ HKUST"
 permalink: /
 ---
 

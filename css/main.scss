@@ -67,6 +67,96 @@ firstp {
 #gridid .row { margin-bottom: 24px; }
 
 
+
+/* Resources */
+.resource-grid {
+	margin-top: 12px;
+}
+
+.resource-grid > [class*="col-"] {
+	margin-bottom: 24px;
+}
+
+.resource-card {
+	background: #fff;
+	border: 1px solid #e1e1e1;
+	border-radius: 6px;
+	box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.16);
+	color: #333;
+	display: block;
+	height: 100%;
+	min-height: 234px;
+	overflow: hidden;
+	text-decoration: none;
+	transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.resource-card:hover,
+.resource-card:focus {
+	box-shadow: 2px 5px 12px rgba(0, 0, 0, 0.22);
+	color: #23527c;
+	text-decoration: none;
+	transform: translateY(-2px);
+}
+
+.resource-card-visual {
+	align-items: center;
+	background: #337a9d;
+	color: #fff;
+	display: flex;
+	height: 126px;
+	justify-content: center;
+	overflow: hidden;
+	position: relative;
+}
+
+.resource-card-visual::before,
+.resource-card-visual::after {
+	border: 1px solid rgba(255, 255, 255, 0.28);
+	border-radius: 50%;
+	content: "";
+	position: absolute;
+}
+
+.resource-card-visual::before {
+	height: 170px;
+	left: -55px;
+	top: -95px;
+	width: 170px;
+}
+
+.resource-card-visual::after {
+	bottom: -95px;
+	height: 180px;
+	right: -60px;
+	width: 180px;
+}
+
+.resource-card-acronym {
+	font-size: 29px;
+	letter-spacing: 0.09em;
+	position: relative;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+	z-index: 1;
+}
+
+.resource-card-name {
+	display: block;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 1.4;
+	padding: 17px 18px;
+}
+
+.resource-card--orange .resource-card-visual { background: #b77737; }
+.resource-card--slate .resource-card-visual { background: #607787; }
+.resource-card--green .resource-card-visual { background: #4d8066; }
+.resource-card--teal .resource-card-visual { background: #3b8380; }
+.resource-card--red .resource-card-visual { background: #a85b57; }
+.resource-card--purple .resource-card-visual { background: #74659a; }
+.resource-card--navy .resource-card-visual { background: #3d5d8a; }
+.resource-card--rose .resource-card-visual { background: #a55f74; }
+
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {

@@ -122,6 +122,12 @@
 #   info1: MPhil in CBE, 2017
 #   email: ltluk@connect.ust.hk
 
+# 刘志洋
+- name: Zhiyang LIU (Cyrus)
+  photo: zhiyang.jpg
+  info0: PhD student in CBE
+  email: zliuev@connect.ust.hk
+
 - name: Ka Kit CHENG
   photo: steven.jpg
   info0: PhD student in ESPM
@@ -155,12 +161,12 @@
 
 # - name: Chrissen Juvileen Dela Cruz GALANG
 #   photo: chrissen.jpg
-#   info0: Mphil student in CBE
+#   info0: MPhil student in CBE
 #   email: cjgalang@connect.ust.hk
 
 - name: Khianne Ed Miguel ORTEZA
   photo: orteza.jpg
-  info0: Mphil student in Bioengineering
+  info0: MPhil student in Bioengineering
   email: kemorteza@connect.ust.hk
 
 # - name: Sittie Zuleiha De Sahagun SALIK
@@ -178,43 +184,38 @@
   info0: MPhil student in CBE
   email: mlllaneta@connect.ust.hk
 
-# 刘志洋
-- name: Zhiyang LIU (Cyrus)
-  photo: zhiyang.jpg
-  info0: Mphil student in CBE
-  email: zliuev@connect.ust.hk
 
 - name: Zeeshan FAREED
   photo: fareed.jpg
-  info0: Mphil student in ESPM
+  info0: MPhil student in ESPM
   email: zfareed@connect.ust.hk
 
 - name: Cheuk Yin TSANG (Eagle)
   photo: eagle.jpg
-  info0: Mphil student in ESPM
+  info0: MPhil student in ESPM
   email: cytsangak@connect.ust.hk
 
 - name: Xiao CHEN (Terry)
   photo: terry.jpg
-  info0: Mphil student in CBE
+  info0: MPhil student in CBE
   email: xchenia@connect.ust.hk
 
 # - name: Muhammad Farhan Hassan Sheharyar KHAN
 #   photo: sheharyar.jpg
-#   info0: Mphil student in ESPM
+#   info0: MPhil student in ESPM
 #   email: mfkhan@connect.ust.hk
 
 - name: Cheung Tim HUNG
   photo: tim.jpg
-  info0: Mphil student in ESPM
+  info0: MPhil student in ESPM
   email: cthungaa@connect.ust.hk
 
 - name: Glenn Rose SUELAN
   photo: rose.jpg
-  info0: Mphil student in CBE
+  info0: MPhil student in CBE
   email: grsuelan@connect.ust.hk
 
 - name: Kyle Andrei Ching CABATIT
   photo: kyle.jpg
-  info0: Mphil student in Bioengineering
+  info0: MPhil student in Bioengineering
   email: kacabatit@connect.ust.hk 

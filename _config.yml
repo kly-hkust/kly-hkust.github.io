@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: KLY Lab
+title: KLY Group @ HKUST
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the KLY Group.
+  Website of the KLY Group @ HKUST.
 # baseurl: "/lab"
 baseurl:
 url: https://kly-hkust.github.io
@@ -20,6 +20,9 @@ include:
 
 exclude:
   - start-local-preview.cmd
+
+plugins:
+  - jekyll-sitemap
 
 sass:
   sass_dir: _sass
