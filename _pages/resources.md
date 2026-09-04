@@ -53,7 +53,7 @@ permalink: /resources/
   <div class="col-sm-6 col-md-3">
     <a class="resource-card resource-card--purple" href="http://www.nff.ust.hk/" target="_blank" rel="noopener">
       <span class="resource-card-visual" aria-hidden="true"><span class="resource-card-acronym">NFF</span></span>
-      <span class="resource-card-name">Dr Tai-chin Lo Nanosystem Fabrication Facility</span>
+      <span class="resource-card-name">Nanosystem Fabrication Facility</span>
     </a>
   </div>
 
@@ -85,7 +85,7 @@ permalink: /resources/
   <div class="col-sm-6 col-md-3">
     <a class="resource-card resource-card--purple" href="https://instrumentsharelab.hkust-gz.edu.cn/Equipment/ShowList" target="_blank" rel="noopener">
       <span class="resource-card-visual" aria-hidden="true"><span class="resource-card-acronym">HKUST(GZ)</span></span>
-      <span class="resource-card-name">HKUST(GZ) Large Instrument Sharing Management Platform</span>
+      <span class="resource-card-name">HKUST(GZ) Instrument Sharing Platform</span>
     </a>
   </div>
 </div>
