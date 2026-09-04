@@ -18,8 +18,21 @@ Jump to [journals](#journals), [conferences](#conferences).
 <!-- <div style="font-size:20px; font-weight:bold; text-align:center; padding-top: 10px; color: #00274c">
 # Journals
 </div> -->
+<p>2026</p>
+<ol>
+<li>S. A. H. Garcia, H. Deng, J. K. C. Kwan, P. Ma, Y. Wu, S. Chen, K. W. K. Tsim, W. Han, K. L. Yeung, "Investigating the neurotoxic effects of NM-300K silver nanoparticles: <i>in vitro</i> and <i>in vivo</i> studies" <i><b>Nanoscale</b></i>, (2026).</li>
+<li>G. Zhou, L. Liu, J. Liu, X. Zhu, J. Qin, H. Deng, D. Ji, W. Xu, J. Fang, Z. Liu, K. L. Yeung, "Photocatalytic Detoxification of Antibiotics: Elucidating Charge-Transfer Pathways and Toxicity Evaluation on TiO2-based Heterojunctions" <i><b>Journal of Environmental Chemical Engineering</b></i>, (2026): 124156.</li>
+<li>T. A. Dela Peña, I. Nadinov, T.-Y. Huang, Z. Xing, L. Chen, Y. Li, S. A. Garcia, J. Dong, Y. Luo, K. L. Yeung, J. I. Khan, G. Zhang, J. Wu, T. C. Sum, R. Ma, O. F. Mohammed, Y. M. Lam, "Quantum well-inspired energy level design in multicomponent organic solar cells for improved energy loss management" <i><b>Materials Horizons</b></i>, (2026).</li>
+<li>W. Xu, H. Wu, Y. Liao, X. Jiang, L. Song, C. Duan, Z. Liu, C. Yu, K. L. Yeung, D. Ye, "CeO2 Nanoislands on LaMnO3 Perovskite Accelerate Lattice Oxygen Activation for Efficient Toluene Removal" <i><b>Environmental Functional Materials</b></i>, (2026).</li>
+<li>L. Zhang, Z. Liu, Z. Zhang, T. Sun, K. L. Yeung, F. Ciucci, R. Xiao, "Joule heating tailored biochar for optimized platinum single-atom electronic structure towards enhanced hydrogen evolution reaction" <i><b>Chinese Chemical Letters</b></i>, (2026): 112578.</li>
+</ol>
+
 <p>2025</p>
 <ol>
+<li>R. M. N. Lintag, W. K. Chan, S. F. Mak, C. M. Montealegre, W. Han, K. L. Yeung, "Enhanced Phthalate Ozonation with Membranes Serving as Distributors, Catalytic Contactors, and Separators" <i><b>Journal of Membrane Science</b></i>, (2025): 125067.</li>
+<li>W. Xu, Y. Liao, H. Wu, X. Jiang, L. Song, Z. Liu, C. Yu, K. L. Yeung, D. Ye, "Cerium-driven electronic modulation in CoMn2O4 spinel: Uniting lattice and gaseous oxygen pathways for accelerated toluene destruction" <i><b>Journal of Hazardous Materials</b></i>, (2025): 140642.</li>
+<li>T. A. Dela Peña, Y. Luo, Y. Hai, R. Ma, A. Dolan, S. Khanmohammadi, J. M. De La Perrelle, Y. Zheng, Q. Wei, Y. Li, L. Jia, S. A. Garcia, K. L. Yeung, K. Kushnir Friedman, L. V. Titova, T. Jia, H. Yan, T. W. Kee, W. Zhao, W. Gao, M. Li, J. Wu, "Tailoring short-range mobility at donor–acceptor heterointerfaces through small molecules promotes efficient organic solar cells" <i><b>Energy &amp; Environmental Science</b></i>, (2025) 18 (23), 10164-10179.</li>
+<li>J. Song, F. E. P. Almaquer, Z. Xiong, X. Wang, M. Li, X. Yan, W. Han, Q. Wu, M. Kappl, Y. Hou, H.-J. Butt, K. L. Yeung, "Enhancing liquid–vapor phase behavior through multiscale anisotropic wettability gradient in dandelion-inspired nanostructures" <i><b>Materials Horizons</b></i>, (2025) 12 (17), 7012-7023.</li>
 <li>Y. Liu, J. Yang, Y. Wang, W. Zhu, K. Hu, Z. Liu, K. L. Yeung, Z. Zhu, C. Chen, X. Duan, S. Wang, "Intrinsic nanoparticle-single-atom interplays steering radical versus nonradical pathways in catalytic ozonation" <i><b>Nature Communications</b></i>, (2025): 8790.</li>
 <li>O. V. Ezeh, J. J. T. Hildago, R. M. N. Lintag, W. Han, K. L. Yeung, "Exploring innovations in antimicrobial protective mask filters: A review" <i><b>Advances in Colloid and Interface Science</b></i>, (2025): 103635.</li>
 <li>W. B. Tarique, S. A. Garcia, T. A. D. Peña, R. Ma, Q. Wei, R. Li, A. H. Howlader, M. J. Pasciolco, S. S. Dipta, Y. Luo, Y. Hai, Y. Li, Y. Chan, K. L. Yeung, H. Yu, L. Yu, M. Li, H. Yan, L. Y. Ming, T. Jia, A. Uddin, J. Wu, "Optimizing the impacts of solid additives on the operational stability and processing reliability of organic solar cells." <i><b>Materials Today Communications</b></i>, (2025): 113584.</li>

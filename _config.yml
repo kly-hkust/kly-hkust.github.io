@@ -18,6 +18,9 @@ include:
   - .htaccess
   - _pages
 
+exclude:
+  - start-local-preview.cmd
+
 sass:
   sass_dir: _sass
 

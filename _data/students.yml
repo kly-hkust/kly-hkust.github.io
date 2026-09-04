@@ -13,10 +13,10 @@
 #   info0: PhD candidate in CBE
 #   email: rmlintag@connect.ust.hk
 
-- name: Deo Charis Ines MOSTRALES
-  photo: deo.jpg
-  info0: PhD candidate in ESPM, HKPFS
-  email: dcimostrales@connect.ust.hk 
+# - name: Deo Charis Ines MOSTRALES
+#   photo: deo.jpg
+#   info0: PhD candidate in ESPM, HKPFS
+#   email: dcimostrales@connect.ust.hk
 
 # - name: Jacqueline ROBAYO MORENO
 #   photo: jackie.png
@@ -39,10 +39,10 @@
 #   email: jdpilapil@connect.ust.hk
 
 # 鄧懷玉
-- name: Huaiyu DENG (Nancy)
-  photo: nancy.jpg
-  info0: PhD candidate in CBE
-  email: hdengah@connect.ust.hk
+# - name: Huaiyu DENG (Nancy)
+#   photo: nancy.jpg
+#   info0: PhD candidate in CBE
+#   email: hdengah@connect.ust.hk
 
 # - name: Jessa Vispo DE GUZMAN
 #   photo: jessa.jpeg
@@ -88,6 +88,23 @@
   info0: PhD candidate in CBE
   email: fealmaquer@connect.ust.hk
 
+- name: Thu Trang NGUYEN
+  photo: nguyen.jpg
+  info0: PhD candidate in CBE
+  email: kebongol@ust.hk
+
+# 窦圆圆
+- name: Yuanyuan DOU (Betty)
+  photo: yuanyuan.jpg
+  info0: PhD candidate in CBE
+  email: ydouac@connect.ust.hk
+
+# 李嘉硕
+- name: Jiashuo LI
+  photo: jiashuo-1.jpg
+  info0: PhD candidate in CBE
+  email: jlija@connect.ust.hk
+
 - name: Ariel Elias RIOFRIO YAVAR
   photo: ariel.jpg
   info0: PhD student in Environmental Engineering, HKPFS
@@ -105,21 +122,10 @@
   info0: PhD student in ESPM
   email: kesteven@ust.hk
 
-- name: Thu Trang NGUYEN
-  photo: nguyen.jpg
-  info0: PhD student in CBE
-  email: kebongol@ust.hk
-
 - name: Rinnel Brenan Lumban BONIFACIO
   photo: rinnel.jpg
   info0: PhD student in Bioengineering
   email: rbbonifacio@connect.ust.hk
-
-# 窦圆圆
-- name: Yuanyuan DOU (Betty)
-  photo: yuanyuan.jpg
-  info0: PhD student in CBE
-  email: ydouac@connect.ust.hk
 
 - name: Sittie Zuleiha De Sahagun SALIK
   photo: sittie.jpg
@@ -131,6 +137,16 @@
   photo: john.jpg
   info0: PhD student in CBE
   email: jltadia@connect.ust.hk
+
+- name: Angelica Revibes CORPUZ
+  photo: Angelica1.jpeg
+  info0: PhD student in ESPM
+  email: arcorpuz@connect.ust.hk
+
+- name: Jed Leonard Ching GO
+  photo: Jed1.jpeg
+  info0: PhD student in Bioengineering
+  email: jlgo@connect.ust.hk
 
 # - name: Chrissen Juvileen Dela Cruz GALANG
 #   photo: chrissen.jpg
@@ -156,12 +172,6 @@
   photo: miles.jpg
   info0: MPhil student in CBE
   email: mlllaneta@connect.ust.hk
-
-# 李嘉硕
-- name: Jiashuo LI
-  photo: jiashuo-1.jpg
-  info0: PhD student in CBE
-  email: jlija@connect.ust.hk
 
 # 刘志洋
 - name: Zhiyang LIU (Cyrus)

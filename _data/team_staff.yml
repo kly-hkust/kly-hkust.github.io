@@ -68,11 +68,11 @@
   info1: Department of Chemical and Biological Engineering
   email: kedianawu@ust.hk
 
-- name: Dr. Mark Joseph Mitra Pasciolco
-  photo: mac.jpg
-  info0: Post-doctoral Fellow
-  info1: Department of Chemical and Biological Engineering
-  email: mpasciolco@ust.hk
+# - name: Dr. Mark Joseph Mitra Pasciolco
+#   photo: mac.jpg
+#   info0: Post-doctoral Fellow
+#   info1: Department of Chemical and Biological Engineering
+#   email: mpasciolco@ust.hk
 
 - name: Dr. EZEH Ogechukwu Vincentia 
   photo: Vincentia.jpg
@@ -110,6 +110,12 @@
   info0: Post-doctoral Fellow
   info1: Division of Environment and Sustainability
   email: envrluoj@ust.hk
+
+- name: Dr. Huaiyu DENG (Nancy)
+  photo: nancy.jpg
+  info0: Post-doctoral Fellow
+  info1: Department of Chemical and Biological Engineering
+  email: hdengah@connect.ust.hk
 
 # - name: Shiyue WANG
 #   photo: shiyue.jpg
