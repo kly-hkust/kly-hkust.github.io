@@ -7,10 +7,10 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD, Master students and Postdocs to join the team!**
+**We are looking for motivated PhD and Master's students and postdoctoral researchers to join our team.**
 
 
-Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni).
+Jump to [Staff](#staff), [Current Students](#current-students), or [Alumni](#alumni).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -25,7 +25,8 @@ Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/teampic/{{ member.photo }}.webp" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info0 }} <br>{{ member.info1 }} <br>{{ member.info2 }} <br>email: <{{ member.email }}></i>
+  <span>{{ member.info0 }} <br>{{ member.info1 }} <br>{{ member.info2 }}</span>
+  <p class="pi-contact">[ <a href="mailto:{{ member.email }}">{{ member.email }}</a> | <a href="tel:+85223587123" title="+852 2358 7123">2358 7123</a> | <a href="https://pathadvisor.ust.hk/search/nearest/lift/from/4550" target="_blank" rel="noopener">Room 4550</a> ]</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -96,7 +97,12 @@ Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/teampic/{{ member.photo }}.webp" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info0 }} <br>{{ member.info1 }} <br>email: <{{ member.email }}></i>
+  {% if member.phone %}
+  <span>{{ member.info0 }} <br>{{ member.info1 }}</span>
+  <p class="pi-contact">[ <a href="mailto:{{ member.email }}">{{ member.email }}</a> | <a href="tel:{{ member.phone_link }}" title="{{ member.phone_link }}">{{ member.phone }}</a> | <a href="{{ member.office_url }}" target="_blank" rel="noopener">{{ member.office }}</a> ]</p>
+  {% else %}
+  <span>{{ member.info0 }} <br>{{ member.info1 }} <br>email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></span>
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -143,7 +149,7 @@ Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/teampic/{{ member.photo }}.webp" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info0 }} <br>email: <{{ member.email }}></i>
+  <span>{{ member.info0 }} <br>email: <{{ member.email }}></span>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -187,7 +193,7 @@ Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/teampic/{{ member.photo }}.webp" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <span>{{ member.duration }} <br> Role: {{ member.info }}</span>
   <ul style="overflow: hidden">
 
   </ul>
@@ -212,28 +218,28 @@ Jump to [staff](#staff), [current students](#current-students), [alumni](#alumni
 <div class="col-sm-4 clearfix">
 <h4>Postdoc</h4>
 {% for member in site.data.alumni_postdoc %}
-{{ member.name }}<br><i>{{ member.info0 }} </i><br><i>{{ member.info1 }} </i>
+{{ member.name }}<br><span>{{ member.info0 }} </span><br><span>{{ member.info1 }} </span>
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>PhD Graduates</h4>
 {% for member in site.data.alumni_phd %}
-{{ member.name }}<br><i>{{ member.info0 }} </i>
+{{ member.name }}<br><span>{{ member.info0 }} </span>
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master Graduates</h4>
 {% for member in site.data.alumni_ms %}
-{{ member.name }}<br><i>{{ member.info0 }} </i>
+{{ member.name }}<br><span>{{ member.info0 }} </span>
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Staff</h4>
 {% for member in site.data.alumni_staff %}
-{{ member.name }}<br><i>{{ member.info0 }} </i>
+{{ member.name }}<br><span>{{ member.info0 }} </span>
 {% endfor %}
 </div>
 

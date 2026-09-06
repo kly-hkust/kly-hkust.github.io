@@ -5,7 +5,7 @@ excerpt: "KLY Group @ HKUST"
 permalink: /
 ---
 
-Founded in 2002, our laboratory conducts research to create a better and sustainable living environment through innovation in education and research and active community engagement.
+Founded in 2002 and led by [Prof. King Lun YEUNG]({{ site.url }}{{ site.baseurl }}/team/), our laboratory conducts research to create a better and more sustainable living environment through innovation in education and research and active community engagement.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

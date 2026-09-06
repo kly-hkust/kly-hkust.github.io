@@ -21,7 +21,7 @@ Jump to [journals](#journals), [conferences](#conferences).
 <p>{{ year.name }}</p>
 <ol>
 {% for publication in year.items %}
-<li>{{ publication.citation }}</li>
+<li>{{ publication.citation }}{% if publication.doi %} <a class="publication-link" href="https://doi.org/{{ publication.doi }}" target="_blank" rel="noopener">[link]</a>{% endif %}</li>
 {% endfor %}
 </ol>
 {% endfor %}

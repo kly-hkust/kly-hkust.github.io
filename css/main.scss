@@ -66,6 +66,27 @@ firstp {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
+.pi-contact {
+	margin-top: 14px;
+}
+
+.navbar-brand .navbar-brand-hkust {
+	color: #003366;
+	font-weight: 700;
+}
+
+.publication-link {
+	color: #0074bc;
+	white-space: nowrap;
+}
+
+.research-page code {
+	background-color: #e8f3fb;
+	border-radius: 3px;
+	color: #003366;
+	font-size: 90%;
+}
+
 
 
 /* Resources */
@@ -101,7 +122,7 @@ firstp {
 
 .resource-card-visual {
 	align-items: center;
-	background: #337a9d;
+	background: #003e4e;
 	color: #fff;
 	display: flex;
 	height: 126px;
@@ -143,19 +164,27 @@ firstp {
 .resource-card-name {
 	display: block;
 	font-size: 16px;
-	font-weight: 600;
 	line-height: 1.4;
 	padding: 17px 18px;
 }
 
-.resource-card--orange .resource-card-visual { background: #b77737; }
-.resource-card--slate .resource-card-visual { background: #607787; }
-.resource-card--green .resource-card-visual { background: #4d8066; }
-.resource-card--teal .resource-card-visual { background: #3b8380; }
-.resource-card--red .resource-card-visual { background: #a85b57; }
-.resource-card--purple .resource-card-visual { background: #74659a; }
-.resource-card--navy .resource-card-visual { background: #3d5d8a; }
-.resource-card--rose .resource-card-visual { background: #a55f74; }
+.resource-card--p548 .resource-card-visual { background: #003e4e; }
+.resource-card--p285 .resource-card-visual { background: #0074bc; }
+.resource-card--p647 .resource-card-visual { background: #2b6297; }
+.resource-card--p310 .resource-card-visual { background: #63cae1; }
+.resource-card--p109 .resource-card-visual { background: #ffd400; }
+.resource-card--p367 .resource-card-visual { background: #a3cf62; }
+.resource-card--p339 .resource-card-visual { background: #00b08d; }
+.resource-card--p340 .resource-card-visual { background: #009a61; }
+.resource-card--p185 .resource-card-visual { background: #ed1b2f; }
+.resource-card--p216 .resource-card-visual { background: #7c2348; }
+.resource-card--p137 .resource-card-visual { background: #faa61a; }
+.resource-card--cool-gray .resource-card-visual { background: #8c8f90; }
+
+.resource-card--light .resource-card-visual { color: #003366; }
+.resource-card--light .resource-card-visual::before,
+.resource-card--light .resource-card-visual::after { border-color: rgba(0, 51, 102, 0.28); }
+.resource-card--light .resource-card-acronym { text-shadow: none; }
 
 @media (max-width: 767px) {
 	.resource-grid > .col-sm-6 {

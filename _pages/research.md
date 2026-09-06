@@ -7,6 +7,8 @@ permalink: /research/
 
 # Research
 
+<div class="research-page" markdown="1">
+
 ### 2026
 Emerging Nanotechnologies for Health and Environmental Applications: Path to Sustainable Adaption and Implementation  
 新興奈米技術在健康和環境應用中的發展：通往永續適應和實施之路  
@@ -158,3 +160,5 @@ Research on scale-up production of antimicrobial gel for malodor treatment
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
+
+</div>
