@@ -7,9 +7,15 @@ permalink: /award/
 
 # Awards
 
-### 2025
+### 2026
 - Gold Award, 2024 Hong Kong Green Innovations Awards (HKGIA)  
     - Breathe Easy: Innovative MOC Hydrogel Technology for Odor Suppression in Urban Drainage
+
+### 2025
+- Gold Medal, World Invent Singapore 2025 (August 2025)
+    - Ka Kit CHENG, Malvin Subroto PAMUDJI and King Lun YEUNG
+- Grand Prize, World Invent Singapore 2025 (August 2025)
+    - Ka Kit CHENG, Malvin Subroto PAMUDJI and King Lun YEUNG
 - Gold Medal with the Congratulations of Jury, 2025 International Exhibition of Inventions Geneva  
     - Methods of preparing inorganic matrices for dosing dissolvable sodium chlorite for controlling algal growth in water
 

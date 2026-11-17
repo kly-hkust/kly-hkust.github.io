@@ -51,11 +51,11 @@
   info1: Department of Chemical and Biological Engineering
   email: kemalvin@ust.hk
 
-- name: Sin Hang WONG (John)
-  photo: wong.jpg
-  info0: Research Assistant
-  info1: Division of Environment and Sustainability
-  email: envrjohnw@ust.hk
+# - name: Sin Hang WONG (John)
+#   photo: wong.jpg
+#   info0: Research Assistant
+#   info1: Division of Environment and Sustainability
+#   email: envrjohnw@ust.hk
 
 - name: Dr. Xin MIAO
   photo: mel.jpg
@@ -103,7 +103,7 @@
 
 - name: Dr. Shabnam TAGHIPOUR
   photo: shabnam.jpg
-  info0: Post-doctoral Fellow, dual PhD degrees in CBE @HKUST and Civil Engineering @Sharif University of Technology
+  info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
   email: envrshabnam@ust.hk
 
@@ -138,8 +138,14 @@
 #   info1: Department of Chemical and Biological Engineering
 #   email: kejysong@ust.hk
 
-- name: BUDIHARDJO Felicia Febriana
-  photo: Feli.jpg
-  info0: Visiting Scholar
+# - name: BUDIHARDJO Felicia Febriana
+#   photo: Feli.jpg
+#   info0: Visiting Scholar
+#   info1: Department of Chemical and Biological Engineering
+#   email: kefeli@ust.hk
+
+- name: Dr. Yuanzhi ZHENG
+  photo: yuanzhi.jpg
+  info0: Post-doctoral Fellow
   info1: Department of Chemical and Biological Engineering
-  email: kefeli@ust.hk
+  email: yzhengbu@connect.ust.hk

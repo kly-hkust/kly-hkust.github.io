@@ -16,24 +16,24 @@ Emerging Nanotechnologies for Health and Environmental Applications: Path to Sus
 
 Environmental and Conservation Fund: Investigating the influence of local soil conditions and microbial communities on water main corrosion: Development of corrosion-resistant ceramic epoxy coatings  
 環境及自然保育基金資助調查當地土壤條件和微生物群落對水管腐蝕的影響：開發耐腐蝕陶瓷環氧塗層  
-`Environment and Conservation Fund / Woo Wheelock Green Fund`
+`Environment and Conservation Fund / Woo Wheelock Green Fund`  
 
 Intergovernmental Scientific and Technological Cooperation Program-Preparation and Application of Hollow Fiber Nanofiltration Membranes for Industrial Wastewater Recycling  
 政府間科技合作項目-工業廢水資源化中空纖維納濾膜的制備與應用  
-`Department of Science and Technology of Zhejiang Province`
+`Department of Science and Technology of Zhejiang Province`  
 
 Formulation and Manufacture of Multilevel Antimicrobial Polymer (MAP) Resin for Advanced Food Packaging and Hygiene Product Applications  
 多層抗微生物聚合物（MAP）樹脂的配方與製造，用於先進食品包裝和衛生產品應用  
-`Absolute Pure EnviroSci Limited, Innovation and Technology Fund`
+`Absolute Pure EnviroSci Limited, Innovation and Technology Fund`  
 
 ### 2025
 Trial: Smart Disinfection Technologies for Sustained and Effective Control of MDROs in Long-Term Care Facilities  
 試用： 智慧消毒技術可持續有效地控制長期照護機構中的多重抗藥性菌  
-`Innovation and Technology Fund`
+`Innovation and Technology Fund`  
 
 Smart Hydrogel for Active Disinfectant Delivery: Enhancing Construction Site Safety by Mitigating Microbial Contamination and Suppressing Toxic Gas Emissions  
 用於主動消毒劑傳遞的智慧水凝膠：透過減輕微生物污染和抑制有毒氣體排放來增強施工現場安全  
-`Absolute Pure EnviroSci Limited, Innovation and Technology Fund`
+`Absolute Pure EnviroSci Limited, Innovation and Technology Fund`  
 
 Development on ionic liquid hybrid functional membranes for high efficient separation of H2 and NH3  
 H2/NH3高效分離的離子液體雜化功能膜材料開發  

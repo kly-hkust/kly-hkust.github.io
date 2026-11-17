@@ -1,4 +1,12 @@
 # Records are grouped by type and sorted by year on the publications page.
+- type: conference
+  year: 2026
+  citation: >-
+    O. V. Ezeh, K. L. Yeung, "Enhanced Pathogen Inactivation using Iodine-doped Ionic Liquid Coatings Deposited on HEPA Filters" <i>European Materials Research Society Fall Meeting 2026</i>, Warsaw, Poland, 14–17 September 2026.
+- type: conference
+  year: 2026
+  citation: >-
+    O. V. Ezeh, J. J. Ternero-Hidalgo, R. M. N. Lintag, U. B. Akpan, L. A. L. Yasis, X. Miao, K. L. Yeung, "Field Evaluation of Antimicrobial Nanofibers (ANF) Filters for Pathogen Mitigation in Special Care Facility" <i>European Materials Research Society Fall Meeting 2026</i>, Warsaw, Poland, 14–17 September 2026.
 - type: journal
   year: 2026
   doi: 10.1039/d5nr05480j
@@ -25,15 +33,15 @@
   citation: >-
     L. Zhang, Z. Liu, Z. Zhang, T. Sun, K. L. Yeung, F. Ciucci, R. Xiao, "Joule heating tailored biochar for optimized platinum single-atom electronic structure towards enhanced hydrogen evolution reaction" <i><b>Chinese Chemical Letters</b></i>, (2026): 112578.
 - type: journal
-  year: 2025
+  year: 2026
   doi: 10.1016/j.memsci.2025.125067
   citation: >-
-    R. M. N. Lintag, W. K. Chan, S. F. Mak, C. M. Montealegre, W. Han, K. L. Yeung, "Enhanced Phthalate Ozonation with Membranes Serving as Distributors, Catalytic Contactors, and Separators" <i><b>Journal of Membrane Science</b></i>, (2025): 125067.
+    R. M. N. Lintag, W. K. Chan, S. F. Mak, C. M. Montealegre, W. Han, K. L. Yeung, "Enhanced Phthalate Ozonation with Membranes Serving as Distributors, Catalytic Contactors, and Separators" <i><b>Journal of Membrane Science</b></i>, (2026) 741: 125067.
 - type: journal
-  year: 2025
+  year: 2026
   doi: 10.1016/j.jhazmat.2025.140642
   citation: >-
-    W. Xu, Y. Liao, H. Wu, X. Jiang, L. Song, Z. Liu, C. Yu, K. L. Yeung, D. Ye, "Cerium-driven electronic modulation in CoMn2O4 spinel: Uniting lattice and gaseous oxygen pathways for accelerated toluene destruction" <i><b>Journal of Hazardous Materials</b></i>, (2025): 140642.
+    W. Xu, Y. Liao, H. Wu, X. Jiang, L. Song, Z. Liu, C. Yu, K. L. Yeung, D. Ye, "Cerium-driven electronic modulation in CoMn2O4 spinel: Uniting lattice and gaseous oxygen pathways for accelerated toluene destruction" <i><b>Journal of Hazardous Materials</b></i>, (2026) 502: 140642.
 - type: journal
   year: 2025
   doi: 10.1039/d5ee05342k

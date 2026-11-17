@@ -25,6 +25,7 @@ Jump to [Staff](#staff), [Current Students](#current-students), or [Alumni](#alu
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/optimized/teampic/{{ member.photo }}.webp" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
+  <p><a href="https://researchportal.hkust.edu.hk/en/persons/king-lun-yeung/" target="_blank" rel="noopener">HKUST Profile</a> | <a href="https://orcid.org/0000-0002-6970-8483" target="_blank" rel="noopener">ORCID</a></p>
   <span>{{ member.info0 }} <br>{{ member.info1 }} <br>{{ member.info2 }}</span>
   <p class="pi-contact">[ <a href="mailto:{{ member.email }}">{{ member.email }}</a> | <a href="tel:+85223587123" title="+852 2358 7123">2358 7123</a> | <a href="https://pathadvisor.ust.hk/search/nearest/lift/from/4550" target="_blank" rel="noopener">Room 4550</a> ]</p>
   <ul style="overflow: hidden">

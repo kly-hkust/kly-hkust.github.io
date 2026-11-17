@@ -191,6 +191,10 @@ firstp {
 		float: left;
 		width: 50%;
 	}
+
+	.resource-grid > .col-sm-6:nth-child(2n + 1) {
+		clear: both;
+	}
 }
 
 /* Grid overrides */
